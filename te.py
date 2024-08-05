@@ -1,43 +1,35 @@
-import os
-import logging
-import json
+def process_title(response_json):
+    # 从 response_json 中提取 title，提供默认值 'no_title'
+    title = response_json.get('detail', {}).get('title', 'no_title')
+    
+    # 去除 "横板视频" 和 "竖版视频"
+    title = title.replace("横板视频", "").replace("竖版视频", "")
+    
+    # 如果包含 '-' 且在 '-' 之前有内容，则去除 '-' 及其之前的内容
+    if '-' in title:
+        index = title.find('-')
+        if index > 0:
+            title = title[index + 1:].strip()
+    
+    return title
 
-# 设置日志配置
-logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
+# 测试用例
+test_cases = [
+    {"response_json": {"detail": {"title": "示例标题-横板视频-更多内容"}}, "expected": "更多内容"},
+    {"response_json": {"detail": {"title": "竖版视频-示例标题"}}, "expected": "示例标题"},
+    {"response_json": {"detail": {"title": "无特殊字符的标题"}}, "expected": "无特殊字符的标题"},
+    {"response_json": {"detail": {"title": "无特殊字符的-标题"}}, "expected": "标题"},
+    {"response_json": {"detail": {"title": "横板视频竖版视频示例标题"}}, "expected": "示例标题"},
+    {"response_json": {"detail": {"title": "横板视频-竖版视频-示例标题"}}, "expected": "示例标题"},
+    {"response_json": {"detail": {"title": "示例-横板视频-标题"}}, "expected": "标题"},
+    {"response_json": {"detail": {}}, "expected": "no_title"},
+    {"response_json": {}, "expected": "no_title"}
+]
 
-def load_srt_files_from_directory(base_path='Data/Srt_temp'):
-    srt_data = {}
-    # 遍历 base_path 目录中的所有子文件夹
-    for folder in os.listdir(base_path):
-        folder_path = os.path.join(base_path, folder)
-        if os.path.isdir(folder_path):
-            srt_contents = []
-            # 遍历子文件夹中的所有文件
-            for file in os.listdir(folder_path):
-                if file.endswith('.srt'):
-                    file_path = os.path.join(folder_path, file)
-                    try:
-                        with open(file_path, 'r', encoding='utf-8') as f:
-                            srt_content = f.read()
-                        # 只保存前 100 个字符
-                        srt_contents.append(srt_content[:100])
-                    except Exception as e:
-                        logging.error(f"Error reading file {file_path}: {e}")
-            if srt_contents:
-                srt_data[folder] = srt_contents
-    return srt_data
+# 执行测试
+for i, test_case in enumerate(test_cases):
+    result = process_title(test_case["response_json"])
+    assert result == test_case["expected"], f"Test case {i+1} failed: expected '{test_case['expected']}', but got '{result}'"
+    print(f"Test case {i+1} passed: '{result}'")
 
-def save_to_json(data, file_path):
-    try:
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
-    except Exception as e:
-        logging.error(f"Error writing JSON file {file_path}: {e}")
-
-# 示例用法
-if __name__ == "__main__":
-    base_path = 'Data/Srt_temp'
-    srt_data = load_srt_files_from_directory(base_path)
-    json_file_path = 'srt_data.json'
-    save_to_json(srt_data, json_file_path)
-    print(f"Data has been saved to {json_file_path}")
+print("All test cases passed.")

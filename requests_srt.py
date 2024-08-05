@@ -52,6 +52,15 @@ def main(yaml_file):
             response_json = response.json()
             title = response_json.get('detail', {}).get('title', 'no_title')  # 从detail字段中提取标题，默认值为'no_title'
             
+            # 去除 "横板视频" 和 "竖版视频"
+            title = title.replace("横板视频", "").replace("竖版视频", "")
+
+            # 如果包含 '-' 且在 '-' 之前有内容，则去除 '-' 及其之前的内容
+            if '-' in title:
+                index = title.find('-')
+                if index > 0:
+                    title = title[index + 1:].strip()
+
             save_json_response(response_json, title)
             logging.info(f'成功保存 {video_url} 的响应数据，文件名: {title}.json。')
             print(f'成功保存 {video_url} 的响应数据，文件名: {title}.json。')
