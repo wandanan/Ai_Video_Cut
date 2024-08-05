@@ -1,0 +1,4264 @@
+{
+    "success": true,
+    "id": "BV1Dm4y1z7A2",
+    "service": "bilibili",
+    "sourceUrl": "https://www.bilibili.com/video/BV1Dm4y1z7A2",
+    "htmlUrl": "https://bibigpt.co/video/BV1Dm4y1z7A2",
+    "costDuration": 3024,
+    "remainingTime": 12759,
+    "detail": {
+        "dbId": "890ed711-3f72-4151-8a40-5ca6efce73c6",
+        "id": "BV1Dm4y1z7A2",
+        "author": "牛牛复利",
+        "authorId": "406488797",
+        "embedId": "696970804",
+        "pageId": "1080682003",
+        "url": "https://www.bilibili.com/video/BV1Dm4y1z7A2",
+        "type": "bilibili",
+        "title": "纪录片·中国 | 第二季·全10集 （李白、杜甫亲历大唐兴衰更替——革命先驱孙中山先生）",
+        "chapters": [],
+        "cover": "http://i0.hdslb.com/bfs/archive/7577a6ecf734a893ca9cc07e65155520d3b7b84d.jpg",
+        "duration": 3024,
+        "subtitlesArray": [
+            {
+                "end": 23.4,
+                "text": "42岁的李白迎来了命运的一次重大转折",
+                "index": 0,
+                "startTime": 17.56
+            },
+            {
+                "end": 26.53,
+                "text": "公元742年秋天",
+                "index": 1,
+                "startTime": 23.84
+            },
+            {
+                "end": 31.42,
+                "text": "让他再次走进长安",
+                "index": 2,
+                "startTime": 29.23
+            },
+            {
+                "end": 34.51,
+                "text": "告别家人时",
+                "index": 3,
+                "startTime": 32.9
+            },
+            {
+                "end": 36.26,
+                "text": "他写下一句诗",
+                "index": 4,
+                "startTime": 34.51
+            },
+            {
+                "end": 38.04,
+                "text": "仰天大笑",
+                "index": 5,
+                "startTime": 36.66
+            },
+            {
+                "end": 39.09,
+                "text": "出门去",
+                "index": 6,
+                "startTime": 38.04
+            },
+            {
+                "end": 43.2,
+                "text": "我辈岂是蓬蒿人",
+                "index": 7,
+                "startTime": 39.09
+            },
+            {
+                "end": 49.3,
+                "text": "世人只知道李白是个精才绝艳的诗人",
+                "index": 8,
+                "startTime": 45.26
+            },
+            {
+                "end": 53.42,
+                "text": "却不知他自有他的政治抱负",
+                "index": 9,
+                "startTime": 49.3
+            },
+            {
+                "end": 56.34,
+                "text": "年轻时他曾到过长安",
+                "index": 10,
+                "startTime": 53.8
+            },
+            {
+                "end": 59.97,
+                "text": "他试着去拜谒宰相公主",
+                "index": 11,
+                "startTime": 56.38
+            },
+            {
+                "end": 63.08,
+                "text": "自建经世之才",
+                "index": 12,
+                "startTime": 61.34
+            },
+            {
+                "end": 65.98,
+                "text": "结果都未尝所愿",
+                "index": 13,
+                "startTime": 63.08
+            },
+            {
+                "end": 69.49,
+                "text": "那次短暂的停留和挫败",
+                "index": 14,
+                "startTime": 66.86
+            },
+            {
+                "end": 73.14,
+                "text": "并没有消磨掉她的傲气",
+                "index": 15,
+                "startTime": 69.49
+            },
+            {
+                "end": 78.42,
+                "text": "李白对自己的才华深信不疑",
+                "index": 16,
+                "startTime": 74.32
+            },
+            {
+                "end": 83.8,
+                "text": "如逢渭水猎犹可帝王师",
+                "index": 17,
+                "startTime": 78.88
+            },
+            {
+                "end": 85.87,
+                "text": "多年间",
+                "index": 18,
+                "startTime": 84.62
+            },
+            {
+                "end": 89.14,
+                "text": "他在大唐的土地上四处游历",
+                "index": 19,
+                "startTime": 85.87
+            },
+            {
+                "end": 94.65,
+                "text": "但长安从来都是他心中无可替代的那座城",
+                "index": 20,
+                "startTime": 89.14
+            },
+            {
+                "end": 101.44,
+                "text": "现在他终于等来了那声召唤",
+                "index": 21,
+                "startTime": 97.99
+            },
+            {
+                "end": 111.54,
+                "text": "浪漫的诗人踌躇满志",
+                "index": 22,
+                "startTime": 107.89
+            },
+            {
+                "end": 115.76,
+                "text": "也正是在这一年",
+                "index": 23,
+                "startTime": 113.64
+            },
+            {
+                "end": 119.03,
+                "text": "唐玄宗李隆基做了一个决定",
+                "index": 24,
+                "startTime": 115.76
+            },
+            {
+                "end": 125.87,
+                "text": "将年号从运行了近30年的开源改为天宝",
+                "index": 25,
+                "startTime": 119.03
+            },
+            {
+                "end": 141.27,
+                "text": "纪录片中国第二季由经典经典献映",
+                "index": 26,
+                "startTime": 137.44
+            },
+            {
+                "end": 142.71,
+                "text": "致敬中华文明",
+                "index": 27,
+                "startTime": 141.27
+            },
+            {
+                "end": 144.54,
+                "text": "开启有机新生",
+                "index": 28,
+                "startTime": 142.71
+            },
+            {
+                "end": 159.93,
+                "text": "大唐的每一次聚会都离不开音乐和美酒",
+                "index": 29,
+                "startTime": 155
+            },
+            {
+                "end": 163.14,
+                "text": "但真正的主角是诗歌",
+                "index": 30,
+                "startTime": 159.93
+            },
+            {
+                "end": 167.74,
+                "text": "那是最适合大唐帝国的语言",
+                "index": 31,
+                "startTime": 165.12
+            },
+            {
+                "end": 171.06,
+                "text": "在没有文字之前",
+                "index": 32,
+                "startTime": 169.16
+            },
+            {
+                "end": 172.76,
+                "text": "民间就有了诗",
+                "index": 33,
+                "startTime": 171.2
+            },
+            {
+                "end": 174.38,
+                "text": "仙",
+                "index": 34,
+                "startTime": 174.14
+            },
+            {
+                "end": 178.32,
+                "text": "民们对自己生存形状的记录和吟唱",
+                "index": 35,
+                "startTime": 174.38
+            },
+            {
+                "end": 180.48,
+                "text": "变成了诗",
+                "index": 36,
+                "startTime": 178.32
+            },
+            {
+                "end": 186.01,
+                "text": "世界上很多民族的历史都是从诗开始的",
+                "index": 37,
+                "startTime": 181.22
+            },
+            {
+                "end": 188.44,
+                "text": "中国最早的诗歌总集",
+                "index": 38,
+                "startTime": 186.01
+            },
+            {
+                "end": 191.43,
+                "text": "诗经经由孔子编撰",
+                "index": 39,
+                "startTime": 188.44
+            },
+            {
+                "end": 195.02,
+                "text": "更是成为儒家思想的重要经典",
+                "index": 40,
+                "startTime": 191.43
+            },
+            {
+                "end": 202.44,
+                "text": "而飞扬的精神孕育了飞扬的唐诗",
+                "index": 41,
+                "startTime": 197.98
+            },
+            {
+                "end": 207.9,
+                "text": "写诗成为唐帝国风靡的时尚",
+                "index": 42,
+                "startTime": 203.92
+            },
+            {
+                "end": 209.88,
+                "text": "众口相传",
+                "index": 43,
+                "startTime": 208.54
+            },
+            {
+                "end": 215.4,
+                "text": "家喻户晓的诗句是最好用的社交名片",
+                "index": 44,
+                "startTime": 209.88
+            },
+            {
+                "end": 221.08,
+                "text": "唐朝诗人群星闪耀",
+                "index": 45,
+                "startTime": 218.4
+            },
+            {
+                "end": 224.77,
+                "text": "那些被后世不断提及与怀念的名字",
+                "index": 46,
+                "startTime": 221.08
+            },
+            {
+                "end": 227.68,
+                "text": "正流传在帝国的大街小巷",
+                "index": 47,
+                "startTime": 224.77
+            },
+            {
+                "end": 231.01,
+                "text": "诗人们以诗相交",
+                "index": 48,
+                "startTime": 228.8
+            },
+            {
+                "end": 233.32,
+                "text": "扬名立万",
+                "index": 49,
+                "startTime": 231.01
+            },
+            {
+                "end": 238.64,
+                "text": "世人之间的吟诵光影常常通宵达旦",
+                "index": 50,
+                "startTime": 233.72
+            },
+            {
+                "end": 240.92,
+                "text": "有人醉卧",
+                "index": 51,
+                "startTime": 239.46
+            },
+            {
+                "end": 242.96,
+                "text": "有人醒来",
+                "index": 52,
+                "startTime": 240.92
+            },
+            {
+                "end": 248.12,
+                "text": "梦中的家具就这样飘然降落到人间",
+                "index": 53,
+                "startTime": 242.96
+            },
+            {
+                "end": 256.84,
+                "text": "李白永远都是聚会的焦点",
+                "index": 54,
+                "startTime": 253.3
+            },
+            {
+                "end": 260.09,
+                "text": "它散发着独特的气质",
+                "index": 55,
+                "startTime": 257.76
+            },
+            {
+                "end": 263.74,
+                "text": "那是与大唐最契合的气质",
+                "index": 56,
+                "startTime": 260.09
+            },
+            {
+                "end": 265.93,
+                "text": "洒脱豁达",
+                "index": 57,
+                "startTime": 263.74
+            },
+            {
+                "end": 267.96,
+                "text": "天性流露",
+                "index": 58,
+                "startTime": 265.93
+            },
+            {
+                "end": 270.9,
+                "text": "朋友们都喜欢她",
+                "index": 59,
+                "startTime": 269.26
+            },
+            {
+                "end": 281.74,
+                "text": "她似乎就是那个手可摘星辰的天上人",
+                "index": 60,
+                "startTime": 272.04
+            },
+            {
+                "end": 287.65,
+                "text": "只是除了举杯邀明月",
+                "index": 61,
+                "startTime": 284.66
+            },
+            {
+                "end": 290.7,
+                "text": "李白还有更大的志向",
+                "index": 62,
+                "startTime": 287.65
+            },
+            {
+                "end": 294.6,
+                "text": "寻求精神自由的同时",
+                "index": 63,
+                "startTime": 292.12
+            },
+            {
+                "end": 297.78,
+                "text": "他也试图在政治上一鸣惊人",
+                "index": 64,
+                "startTime": 294.6
+            },
+            {
+                "end": 300.72,
+                "text": "这是他矢志不渝的两大追求",
+                "index": 65,
+                "startTime": 297.78
+            },
+            {
+                "end": 304.5,
+                "text": "诗意折射人心",
+                "index": 66,
+                "startTime": 302.7
+            },
+            {
+                "end": 305.58,
+                "text": "人心",
+                "index": 67,
+                "startTime": 304.5
+            },
+            {
+                "end": 306.72,
+                "text": "映射时代",
+                "index": 68,
+                "startTime": 305.58
+            },
+            {
+                "end": 309.42,
+                "text": "李白的性格",
+                "index": 69,
+                "startTime": 308.1
+            },
+            {
+                "end": 312.18,
+                "text": "恰好承接了盛唐的两面",
+                "index": 70,
+                "startTime": 309.42
+            },
+            {
+                "end": 314.8,
+                "text": "浪漫与进取",
+                "index": 71,
+                "startTime": 312.18
+            },
+            {
+                "end": 330.46,
+                "text": "生逢开元盛世是李白的幸运",
+                "index": 72,
+                "startTime": 326.82
+            },
+            {
+                "end": 333.96,
+                "text": "他的少年和青年时期",
+                "index": 73,
+                "startTime": 331.84
+            },
+            {
+                "end": 337.32,
+                "text": "正好遇上了大唐帝国的鼎盛年华",
+                "index": 74,
+                "startTime": 333.96
+            },
+            {
+                "end": 342.02,
+                "text": "而他几乎就是开元时代的化身",
+                "index": 75,
+                "startTime": 338.3
+            },
+            {
+                "end": 348.4,
+                "text": "始于公元618年的唐朝",
+                "index": 76,
+                "startTime": 345.26
+            },
+            {
+                "end": 350.47,
+                "text": "经百余年积累",
+                "index": 77,
+                "startTime": 348.4
+            },
+            {
+                "end": 353.64,
+                "text": "历经太宗李世民的贞观之治",
+                "index": 78,
+                "startTime": 350.47
+            },
+            {
+                "end": 355.74,
+                "text": "到玄宗一代",
+                "index": 79,
+                "startTime": 354.28
+            },
+            {
+                "end": 357.75,
+                "text": "一切都达到了巅峰",
+                "index": 80,
+                "startTime": 355.74
+            },
+            {
+                "end": 360.63,
+                "text": "皆是繁荣",
+                "index": 81,
+                "startTime": 359.35
+            },
+            {
+                "end": 362.48,
+                "text": "乡也殷实",
+                "index": 82,
+                "startTime": 360.63
+            },
+            {
+                "end": 368.69,
+                "text": "人口从唐初的200余万户增长到了约900万户",
+                "index": 83,
+                "startTime": 363.06
+            },
+            {
+                "end": 370.92,
+                "text": "国力空前强盛",
+                "index": 84,
+                "startTime": 368.69
+            },
+            {
+                "end": 377.16,
+                "text": "整个社会从上到下弥漫着一种安乐祥和之气",
+                "index": 85,
+                "startTime": 370.92
+            },
+            {
+                "end": 384.28,
+                "text": "这一切源自唐初的一系列制度建设",
+                "index": 86,
+                "startTime": 379.54
+            },
+            {
+                "end": 387.08,
+                "text": "经完善后的三省六部制",
+                "index": 87,
+                "startTime": 384.56
+            },
+            {
+                "end": 389.15,
+                "text": "确立了新的组织结构",
+                "index": 88,
+                "startTime": 387.08
+            },
+            {
+                "end": 391.88,
+                "text": "既有互相制约的权力设置",
+                "index": 89,
+                "startTime": 389.15
+            },
+            {
+                "end": 394.94,
+                "text": "又强化了皇权的力量",
+                "index": 90,
+                "startTime": 391.88
+            },
+            {
+                "end": 399.54,
+                "text": "沿袭于西魏的府兵制被继续启用",
+                "index": 91,
+                "startTime": 395.44
+            },
+            {
+                "end": 403.08,
+                "text": "成为国家安全的军事保障",
+                "index": 92,
+                "startTime": 399.54
+            },
+            {
+                "end": 407.27,
+                "text": "科举制度在唐朝最终成熟",
+                "index": 93,
+                "startTime": 403.92
+            },
+            {
+                "end": 417.34,
+                "text": "唐朝的政治制度全面积淀了自秦汉以来",
+                "index": 94,
+                "startTime": 412.76
+            },
+            {
+                "end": 422.35,
+                "text": "有这个强大的基石支撑",
+                "index": 95,
+                "startTime": 419.62
+            },
+            {
+                "end": 424.63,
+                "text": "唐帝国昂扬向上",
+                "index": 96,
+                "startTime": 422.35
+            },
+            {
+                "end": 426.3,
+                "text": "一路升平",
+                "index": 97,
+                "startTime": 424.63
+            },
+            {
+                "end": 432.1,
+                "text": "接替开元的天宝元年",
+                "index": 98,
+                "startTime": 429.34
+            },
+            {
+                "end": 434.92,
+                "text": "距立国已有124年",
+                "index": 99,
+                "startTime": 432.1
+            },
+            {
+                "end": 438.76,
+                "text": "大唐的盛宴还在继续",
+                "index": 100,
+                "startTime": 434.92
+            },
+            {
+                "end": 443.44,
+                "text": "这个生机勃勃的国家依然那么动人",
+                "index": 101,
+                "startTime": 439.56
+            },
+            {
+                "end": 445.27,
+                "text": "自信与从容",
+                "index": 102,
+                "startTime": 443.44
+            },
+            {
+                "end": 448.54,
+                "text": "遍布在寻常巷陌",
+                "index": 103,
+                "startTime": 445.27
+            },
+            {
+                "end": 454.91,
+                "text": "初唐诗人王勃的名篇滕王阁序中即写道",
+                "index": 104,
+                "startTime": 450.36
+            },
+            {
+                "end": 456.59,
+                "text": "物华天宝",
+                "index": 105,
+                "startTime": 454.91
+            },
+            {
+                "end": 459.54,
+                "text": "意思是指各种真美的宝物",
+                "index": 106,
+                "startTime": 456.59
+            },
+            {
+                "end": 465.86,
+                "text": "相对于带有开创之意的开源天宝",
+                "index": 107,
+                "startTime": 461.58
+            },
+            {
+                "end": 469.7,
+                "text": "或许更符合唐玄宗此时的心境",
+                "index": 108,
+                "startTime": 465.86
+            },
+            {
+                "end": 474.1,
+                "text": "它正在进入人生的晚年",
+                "index": 109,
+                "startTime": 470.88
+            },
+            {
+                "end": 476.44,
+                "text": "该打的仗已经打过",
+                "index": 110,
+                "startTime": 474.26
+            },
+            {
+                "end": 478.84,
+                "text": "该走的路已经走过",
+                "index": 111,
+                "startTime": 476.44
+            },
+            {
+                "end": 481.66,
+                "text": "是时候安享太平了",
+                "index": 112,
+                "startTime": 478.84
+            },
+            {
+                "end": 485.88,
+                "text": "他对自己的国家甚为满意",
+                "index": 113,
+                "startTime": 482.92
+            },
+            {
+                "end": 489.81,
+                "text": "他希望自己治下的这个伟大时代",
+                "index": 114,
+                "startTime": 485.88
+            },
+            {
+                "end": 495.26,
+                "text": "能和那些不朽的诗篇一起被永久传颂",
+                "index": 115,
+                "startTime": 489.81
+            },
+            {
+                "end": 502.42,
+                "text": "于是唐玄宗想起了那个久负盛名的天才诗人",
+                "index": 116,
+                "startTime": 496.62
+            },
+            {
+                "end": 504.32,
+                "text": "李白",
+                "index": 117,
+                "startTime": 502.42
+            },
+            {
+                "end": 507.68,
+                "text": "在大唐的万千气象中",
+                "index": 118,
+                "startTime": 505.14
+            },
+            {
+                "end": 511.16,
+                "text": "诗歌是那个流芳百世的惊魂",
+                "index": 119,
+                "startTime": 507.68
+            },
+            {
+                "end": 514.64,
+                "text": "在大唐的无数诗人中",
+                "index": 120,
+                "startTime": 512.48
+            },
+            {
+                "end": 519.68,
+                "text": "李白是一面万众瞩目的旗帜",
+                "index": 121,
+                "startTime": 514.64
+            },
+            {
+                "end": 533.89,
+                "text": "就在李白兴冲冲准备奔赴长安时",
+                "index": 122,
+                "startTime": 530.14
+            },
+            {
+                "end": 538.18,
+                "text": "在东都洛阳而立之年的诗人杜甫",
+                "index": 123,
+                "startTime": 533.89
+            },
+            {
+                "end": 541.15,
+                "text": "刚刚完成了人生的一件大事",
+                "index": 124,
+                "startTime": 538.18
+            },
+            {
+                "end": 542.68,
+                "text": "他成家了",
+                "index": 125,
+                "startTime": 541.15
+            },
+            {
+                "end": 548.36,
+                "text": "杜甫生于书香之家",
+                "index": 126,
+                "startTime": 545.56
+            },
+            {
+                "end": 551.84,
+                "text": "祖父官至修文馆直学士",
+                "index": 127,
+                "startTime": 549
+            },
+            {
+                "end": 554.72,
+                "text": "在诗歌创作上成就卓越",
+                "index": 128,
+                "startTime": 551.84
+            },
+            {
+                "end": 557.14,
+                "text": "是初唐文章四友之一",
+                "index": 129,
+                "startTime": 554.72
+            },
+            {
+                "end": 560.47,
+                "text": "因为母亲早逝",
+                "index": 130,
+                "startTime": 558.88
+            },
+            {
+                "end": 562.74,
+                "text": "父亲常年在外为官",
+                "index": 131,
+                "startTime": 560.47
+            },
+            {
+                "end": 567.54,
+                "text": "杜甫幼年时就被送到洛阳的姑母家记住",
+                "index": 132,
+                "startTime": 562.74
+            },
+            {
+                "end": 574.22,
+                "text": "杜甫为自己设定的目标是像父辈那样求取功名",
+                "index": 133,
+                "startTime": 569.42
+            },
+            {
+                "end": 578.38,
+                "text": "他也一直沿着这个轨道前行",
+                "index": 134,
+                "startTime": 575.36
+            },
+            {
+                "end": 581.05,
+                "text": "24岁那年",
+                "index": 135,
+                "startTime": 579.44
+            },
+            {
+                "end": 583.54,
+                "text": "她参加了一次进士科考试",
+                "index": 136,
+                "startTime": 581.05
+            },
+            {
+                "end": 585.46,
+                "text": "结果不重",
+                "index": 137,
+                "startTime": 583.54
+            },
+            {
+                "end": 588.01,
+                "text": "但他并不灰心",
+                "index": 138,
+                "startTime": 586.34
+            },
+            {
+                "end": 591.64,
+                "text": "独自一人登上泰山",
+                "index": 139,
+                "startTime": 588.01
+            },
+            {
+                "end": 594.74,
+                "text": "那是儒家的精神圣地",
+                "index": 140,
+                "startTime": 592.18
+            },
+            {
+                "end": 598.25,
+                "text": "先师孔子曾发出登泰山",
+                "index": 141,
+                "startTime": 594.74
+            },
+            {
+                "end": 600.14,
+                "text": "而小天下的慨叹",
+                "index": 142,
+                "startTime": 598.25
+            },
+            {
+                "end": 604.93,
+                "text": "杜甫则以一首体势雄浑的望月",
+                "index": 143,
+                "startTime": 601.16
+            },
+            {
+                "end": 608.74,
+                "text": "在诗坛以气骨峥嵘的姿态登场",
+                "index": 144,
+                "startTime": 604.93
+            },
+            {
+                "end": 614.09,
+                "text": "他期待着有一天会当凌绝顶",
+                "index": 145,
+                "startTime": 610.42
+            },
+            {
+                "end": 617.42,
+                "text": "一览众山小",
+                "index": 146,
+                "startTime": 614.09
+            },
+            {
+                "end": 621.96,
+                "text": "但现实永远在考验每个人的理想",
+                "index": 147,
+                "startTime": 618.34
+            },
+            {
+                "end": 628.06,
+                "text": "杜甫的时间年轮上一直接连不断的不满哀伤",
+                "index": 148,
+                "startTime": 623.22
+            },
+            {
+                "end": 632.8,
+                "text": "父亲和姑母先后撒手人寰",
+                "index": 149,
+                "startTime": 629.68
+            },
+            {
+                "end": 634.9,
+                "text": "家境日渐衰落",
+                "index": 150,
+                "startTime": 632.8
+            },
+            {
+                "end": 638.58,
+                "text": "杜甫本来就不爱交际",
+                "index": 151,
+                "startTime": 636.28
+            },
+            {
+                "end": 642.43,
+                "text": "现在她只能越加发奋地读书",
+                "index": 152,
+                "startTime": 638.58
+            },
+            {
+                "end": 645.06,
+                "text": "等待下一次科举考试",
+                "index": 153,
+                "startTime": 642.43
+            },
+            {
+                "end": 647.46,
+                "text": "除了埋头苦读",
+                "index": 154,
+                "startTime": 645.82
+            },
+            {
+                "end": 651.06,
+                "text": "他也时常约人一起演习礼仪",
+                "index": 155,
+                "startTime": 647.46
+            },
+            {
+                "end": 659.14,
+                "text": "他一定会行出最标准的大礼",
+                "index": 156,
+                "startTime": 654.54
+            },
+            {
+                "end": 666.06,
+                "text": "有时候她觉得时间过得太快",
+                "index": 157,
+                "startTime": 663
+            },
+            {
+                "end": 667.86,
+                "text": "他快要等不起了",
+                "index": 158,
+                "startTime": 666.06
+            },
+            {
+                "end": 671.55,
+                "text": "有时候又觉得太慢",
+                "index": 159,
+                "startTime": 668.94
+            },
+            {
+                "end": 675.12,
+                "text": "属于他的机会迟迟不肯降临",
+                "index": 160,
+                "startTime": 671.55
+            },
+            {
+                "end": 681.54,
+                "text": "更多时候寂寞让时间仿佛停滞",
+                "index": 161,
+                "startTime": 676.8
+            },
+            {
+                "end": 685.32,
+                "text": "就在焦灼和平静的交替中",
+                "index": 162,
+                "startTime": 682.3
+            },
+            {
+                "end": 691.46,
+                "text": "他和唐帝国一起度过了开元年号的最后时光",
+                "index": 163,
+                "startTime": 685.32
+            },
+            {
+                "end": 696.28,
+                "text": "独自一人的时候",
+                "index": 164,
+                "startTime": 694.46
+            },
+            {
+                "end": 699.19,
+                "text": "杜甫会想起自己的心底",
+                "index": 165,
+                "startTime": 696.28
+            },
+            {
+                "end": 701.28,
+                "text": "始终还有一个向往",
+                "index": 166,
+                "startTime": 699.19
+            },
+            {
+                "end": 704.86,
+                "text": "成为李白那样潇洒风流的人物",
+                "index": 167,
+                "startTime": 701.46
+            },
+            {
+                "end": 707.52,
+                "text": "一边访名山大川",
+                "index": 168,
+                "startTime": 704.94
+            },
+            {
+                "end": 708.85,
+                "text": "一边写诗",
+                "index": 169,
+                "startTime": 707.52
+            },
+            {
+                "end": 712.86,
+                "text": "交游醒时相交欢",
+                "index": 170,
+                "startTime": 708.85
+            },
+            {
+                "end": 716.02,
+                "text": "最后各分散",
+                "index": 171,
+                "startTime": 712.86
+            },
+            {
+                "end": 720.85,
+                "text": "杜甫还没有见过比自己年长11岁的李白",
+                "index": 172,
+                "startTime": 716.54
+            },
+            {
+                "end": 725,
+                "text": "但他熟悉李白那些奔放飘逸的诗句",
+                "index": 173,
+                "startTime": 720.85
+            },
+            {
+                "end": 729.5,
+                "text": "那些仿佛来自天际的带着仙气的诗句",
+                "index": 174,
+                "startTime": 725
+            },
+            {
+                "end": 734.78,
+                "text": "不过这位诗坛的后起之秀",
+                "index": 175,
+                "startTime": 729.5
+            },
+            {
+                "end": 738.6,
+                "text": "明白自己有比写诗更重要的责任",
+                "index": 176,
+                "startTime": 734.78
+            },
+            {
+                "end": 740.58,
+                "text": "要完成科举",
+                "index": 177,
+                "startTime": 738.6
+            },
+            {
+                "end": 743.12,
+                "text": "出世是唯一的途径",
+                "index": 178,
+                "startTime": 740.58
+            },
+            {
+                "end": 749.3,
+                "text": "安静的日子容易让人产生错觉",
+                "index": 179,
+                "startTime": 745.88
+            },
+            {
+                "end": 751.46,
+                "text": "以为时间永远不会结束",
+                "index": 180,
+                "startTime": 749.3
+            },
+            {
+                "end": 757.69,
+                "text": "历史就这样缓缓走进了公元742年",
+                "index": 181,
+                "startTime": 752.9
+            },
+            {
+                "end": 760.3,
+                "text": "天宝元年",
+                "index": 182,
+                "startTime": 757.69
+            },
+            {
+                "end": 763.47,
+                "text": "无论对于李白还是杜甫",
+                "index": 183,
+                "startTime": 760.6
+            },
+            {
+                "end": 767.36,
+                "text": "这一年都显得意味深长",
+                "index": 184,
+                "startTime": 763.47
+            },
+            {
+                "end": 778.47,
+                "text": "从气宇轩昂走进长安",
+                "index": 185,
+                "startTime": 775.72
+            },
+            {
+                "end": 780.78,
+                "text": "到意兴阑珊地离开",
+                "index": 186,
+                "startTime": 778.47
+            },
+            {
+                "end": 782.64,
+                "text": "诗人的天真",
+                "index": 187,
+                "startTime": 781.08
+            },
+            {
+                "end": 787.36,
+                "text": "在一年多时间里就被现实政治击得粉碎",
+                "index": 188,
+                "startTime": 782.64
+            },
+            {
+                "end": 790.88,
+                "text": "李白受到唐玄宗的嘉奖",
+                "index": 189,
+                "startTime": 788.4
+            },
+            {
+                "end": 792.65,
+                "text": "并被赐予官职",
+                "index": 190,
+                "startTime": 790.88
+            },
+            {
+                "end": 797.2,
+                "text": "但却是毫无实际权力的翰林学士",
+                "index": 191,
+                "startTime": 792.65
+            },
+            {
+                "end": 799.83,
+                "text": "那是一种技术观",
+                "index": 192,
+                "startTime": 798.1
+            },
+            {
+                "end": 804.78,
+                "text": "也就是拥有某种技艺或术数的官吏职责",
+                "index": 193,
+                "startTime": 799.83
+            },
+            {
+                "end": 807.06,
+                "text": "是陪侍皇帝有赏",
+                "index": 194,
+                "startTime": 804.78
+            },
+            {
+                "end": 810.38,
+                "text": "李白突然意识到",
+                "index": 195,
+                "startTime": 808.44
+            },
+            {
+                "end": 811.97,
+                "text": "在皇帝眼里",
+                "index": 196,
+                "startTime": 810.38
+            },
+            {
+                "end": 815.84,
+                "text": "他和那些占星卜卦之徒并无二致",
+                "index": 197,
+                "startTime": 811.97
+            },
+            {
+                "end": 820.36,
+                "text": "兼济天下的理想成了笑谈",
+                "index": 198,
+                "startTime": 816.6
+            },
+            {
+                "end": 826.54,
+                "text": "无比失望的诗人恢复了呼朋唤友",
+                "index": 199,
+                "startTime": 822.8
+            },
+            {
+                "end": 828.57,
+                "text": "豪饮欢歌的本性",
+                "index": 200,
+                "startTime": 826.54
+            },
+            {
+                "end": 829.7,
+                "text": "好看",
+                "index": 201,
+                "startTime": 828.57
+            },
+            {
+                "end": 832.7,
+                "text": "虽然皇帝待他足够宽容",
+                "index": 202,
+                "startTime": 829.7
+            },
+            {
+                "end": 837.9,
+                "text": "但奢靡禁锢的宫廷终究不是李白想要的生活",
+                "index": 203,
+                "startTime": 832.7
+            },
+            {
+                "end": 843.66,
+                "text": "而他放荡不羁的行为也无法兼容于权贵",
+                "index": 204,
+                "startTime": 837.9
+            },
+            {
+                "end": 845.93,
+                "text": "终于有一天",
+                "index": 205,
+                "startTime": 844.51
+            },
+            {
+                "end": 848.03,
+                "text": "李白递上辞呈",
+                "index": 206,
+                "startTime": 845.93
+            },
+            {
+                "end": 850.49,
+                "text": "皇帝批准了他的请求",
+                "index": 207,
+                "startTime": 848.03
+            },
+            {
+                "end": 853.73,
+                "text": "并赐金放还",
+                "index": 208,
+                "startTime": 850.49
+            },
+            {
+                "end": 858.11,
+                "text": "性格决定命运",
+                "index": 209,
+                "startTime": 856.41
+            },
+            {
+                "end": 863.8,
+                "text": "李白的命运其实一早就有它的天性",
+                "index": 210,
+                "startTime": 859.67
+            },
+            {
+                "end": 865.22,
+                "text": "注定了",
+                "index": 211,
+                "startTime": 863.8
+            },
+            {
+                "end": 878.84,
+                "text": "在洛阳",
+                "index": 212,
+                "startTime": 877.5
+            },
+            {
+                "end": 882.12,
+                "text": "杜甫终于见到了偶像李白",
+                "index": 213,
+                "startTime": 878.84
+            },
+            {
+                "end": 885.66,
+                "text": "长安失去了李白",
+                "index": 214,
+                "startTime": 883.54
+            },
+            {
+                "end": 888.85,
+                "text": "却成全了一次千载难逢的相遇",
+                "index": 215,
+                "startTime": 885.66
+            },
+            {
+                "end": 892.12,
+                "text": "公元744年",
+                "index": 216,
+                "startTime": 889.79
+            },
+            {
+                "end": 897,
+                "text": "由此成为中国文学史上一个值得纪念的年份",
+                "index": 217,
+                "startTime": 892.12
+            },
+            {
+                "end": 900.96,
+                "text": "这时候的李白制度受挫",
+                "index": 218,
+                "startTime": 898
+            },
+            {
+                "end": 904.5,
+                "text": "无限风光烟消云散",
+                "index": 219,
+                "startTime": 900.96
+            },
+            {
+                "end": 907.74,
+                "text": "这时候的杜甫前途未卜",
+                "index": 220,
+                "startTime": 904.78
+            },
+            {
+                "end": 909.12,
+                "text": "郁郁多年",
+                "index": 221,
+                "startTime": 907.74
+            },
+            {
+                "end": 910.52,
+                "text": "仍不得知",
+                "index": 222,
+                "startTime": 909.12
+            },
+            {
+                "end": 916.18,
+                "text": "这样的两个人在这样的时刻见面了",
+                "index": 223,
+                "startTime": 911.84
+            },
+            {
+                "end": 920.58,
+                "text": "奇妙的缘分和惺惺相惜的才情",
+                "index": 224,
+                "startTime": 916.96
+            },
+            {
+                "end": 922.97,
+                "text": "让他们很快相熟",
+                "index": 225,
+                "startTime": 920.58
+            },
+            {
+                "end": 926.96,
+                "text": "嗯后来高士如约而来",
+                "index": 226,
+                "startTime": 922.97
+            },
+            {
+                "end": 929.58,
+                "text": "三人一起登高怀古",
+                "index": 227,
+                "startTime": 926.96
+            },
+            {
+                "end": 930.99,
+                "text": "寻幽访胜",
+                "index": 228,
+                "startTime": 929.58
+            },
+            {
+                "end": 933.28,
+                "text": "甚至骑马打猎",
+                "index": 229,
+                "startTime": 930.99
+            },
+            {
+                "end": 935,
+                "text": "醉眠秋",
+                "index": 230,
+                "startTime": 933.62
+            },
+            {
+                "end": 938.14,
+                "text": "共被携手日同行",
+                "index": 231,
+                "startTime": 935
+            },
+            {
+                "end": 941.71,
+                "text": "那一年的春天和秋天",
+                "index": 232,
+                "startTime": 939.06
+            },
+            {
+                "end": 944.14,
+                "text": "他们写诗畅饮",
+                "index": 233,
+                "startTime": 941.71
+            },
+            {
+                "end": 947.98,
+                "text": "忧思和欢愉都无比纯粹",
+                "index": 234,
+                "startTime": 944.14
+            },
+            {
+                "end": 951.74,
+                "text": "诗人总是格外敏感的",
+                "index": 235,
+                "startTime": 949.14
+            },
+            {
+                "end": 954.26,
+                "text": "在小天地里纵情时",
+                "index": 236,
+                "startTime": 951.74
+            },
+            {
+                "end": 958.27,
+                "text": "他们也感知到了大唐帝国的变化",
+                "index": 237,
+                "startTime": 954.26
+            },
+            {
+                "end": 963.31,
+                "text": "就在李杜二人相见的这一年",
+                "index": 238,
+                "startTime": 960.59
+            },
+            {
+                "end": 967.36,
+                "text": "唐玄宗将纪元方式从年改为载",
+                "index": 239,
+                "startTime": 963.31
+            },
+            {
+                "end": 971.12,
+                "text": "天宝3年变成了天宝三载",
+                "index": 240,
+                "startTime": 968.24
+            },
+            {
+                "end": 975.31,
+                "text": "以年纪元是从周朝开始的",
+                "index": 241,
+                "startTime": 972.2
+            },
+            {
+                "end": 976.69,
+                "text": "在那以前",
+                "index": 242,
+                "startTime": 975.31
+            },
+            {
+                "end": 977.89,
+                "text": "夏曰岁",
+                "index": 243,
+                "startTime": 976.69
+            },
+            {
+                "end": 978.97,
+                "text": "商曰祀",
+                "index": 244,
+                "startTime": 977.89
+            },
+            {
+                "end": 980.62,
+                "text": "唐虞曰载",
+                "index": 245,
+                "startTime": 978.97
+            },
+            {
+                "end": 985.4,
+                "text": "或许唐玄宗认为自己缔造的政清人和",
+                "index": 246,
+                "startTime": 980.62
+            },
+            {
+                "end": 988.98,
+                "text": "可与上古贤君尧舜比肩",
+                "index": 247,
+                "startTime": 985.4
+            },
+            {
+                "end": 993.95,
+                "text": "对杜甫来说",
+                "index": 248,
+                "startTime": 991.92
+            },
+            {
+                "end": 997.49,
+                "text": "和李白的欢聚是快乐而难忘的",
+                "index": 249,
+                "startTime": 993.95
+            },
+            {
+                "end": 1000.92,
+                "text": "虽然他仍旧带着一些谦卑",
+                "index": 250,
+                "startTime": 997.49
+            },
+            {
+                "end": 1003.47,
+                "text": "两年时间里",
+                "index": 251,
+                "startTime": 1001.92
+            },
+            {
+                "end": 1005.36,
+                "text": "他们见了三次",
+                "index": 252,
+                "startTime": 1003.47
+            },
+            {
+                "end": 1008.54,
+                "text": "李白带着杜甫寻仙人",
+                "index": 253,
+                "startTime": 1005.36
+            },
+            {
+                "end": 1009.74,
+                "text": "找仙草",
+                "index": 254,
+                "startTime": 1008.54
+            },
+            {
+                "end": 1011.08,
+                "text": "炼仙丹",
+                "index": 255,
+                "startTime": 1009.74
+            },
+            {
+                "end": 1015.86,
+                "text": "因为遇见李白苦闷的杜甫",
+                "index": 256,
+                "startTime": 1012.32
+            },
+            {
+                "end": 1018.98,
+                "text": "抬头看了看天",
+                "index": 257,
+                "startTime": 1015.86
+            },
+            {
+                "end": 1027.13,
+                "text": "在开元盛世度过人生的盛年",
+                "index": 258,
+                "startTime": 1023.9
+            },
+            {
+                "end": 1030.71,
+                "text": "幸运的李白也是不幸的",
+                "index": 259,
+                "startTime": 1027.13
+            },
+            {
+                "end": 1033.2,
+                "text": "她将在人生的下半场",
+                "index": 260,
+                "startTime": 1030.71
+            },
+            {
+                "end": 1037.03,
+                "text": "不断遥望那段无法重现的华彩",
+                "index": 261,
+                "startTime": 1033.2
+            },
+            {
+                "end": 1039.19,
+                "text": "归于山野",
+                "index": 262,
+                "startTime": 1037.97
+            },
+            {
+                "end": 1041.4,
+                "text": "未尝不是件幸事",
+                "index": 263,
+                "startTime": 1039.19
+            },
+            {
+                "end": 1046.41,
+                "text": "但即便是不愿摧眉折腰事权贵的李白",
+                "index": 264,
+                "startTime": 1041.4
+            },
+            {
+                "end": 1052.52,
+                "text": "依然会有东风吹梦刀长安的眷恋",
+                "index": 265,
+                "startTime": 1046.41
+            },
+            {
+                "end": 1055.22,
+                "text": "进则儒",
+                "index": 266,
+                "startTime": 1053.7
+            },
+            {
+                "end": 1056.9,
+                "text": "退则道",
+                "index": 267,
+                "startTime": 1055.22
+            },
+            {
+                "end": 1061.64,
+                "text": "一直是中国历代知识分子的两重选择",
+                "index": 268,
+                "startTime": 1056.9
+            },
+            {
+                "end": 1067.54,
+                "text": "唐朝风气开化儒释道三教并列成绩",
+                "index": 269,
+                "startTime": 1061.94
+            },
+            {
+                "end": 1072.54,
+                "text": "本土思想之源的儒和道是两股不同方向的急流",
+                "index": 270,
+                "startTime": 1067.54
+            },
+            {
+                "end": 1076.59,
+                "text": "做一个儒者入世建功",
+                "index": 271,
+                "startTime": 1073.6
+            },
+            {
+                "end": 1079.04,
+                "text": "还是追随道家出世",
+                "index": 272,
+                "startTime": 1076.59
+            },
+            {
+                "end": 1080.6,
+                "text": "追求个人自由",
+                "index": 273,
+                "startTime": 1079.04
+            },
+            {
+                "end": 1086.94,
+                "text": "每个人都将主动或被动地做出选择",
+                "index": 274,
+                "startTime": 1081.92
+            },
+            {
+                "end": 1092.75,
+                "text": "某种意义上是时代的激流冲击着",
+                "index": 275,
+                "startTime": 1088.66
+            },
+            {
+                "end": 1095.9,
+                "text": "塑造着个性截然不同的世人",
+                "index": 276,
+                "startTime": 1092.75
+            },
+            {
+                "end": 1102.28,
+                "text": "而他们也将赋予这个时代截然不同的气质",
+                "index": 277,
+                "startTime": 1095.9
+            },
+            {
+                "end": 1108.43,
+                "text": "杜甫理解李白痛饮狂歌空度日的背后",
+                "index": 278,
+                "startTime": 1103.76
+            },
+            {
+                "end": 1112.04,
+                "text": "飞扬跋扈为谁雄的痛苦",
+                "index": 279,
+                "startTime": 1108.43
+            },
+            {
+                "end": 1116.9,
+                "text": "谁不想青史留名呢",
+                "index": 280,
+                "startTime": 1113.64
+            },
+            {
+                "end": 1119.35,
+                "text": "他知道无论如何",
+                "index": 281,
+                "startTime": 1116.96
+            },
+            {
+                "end": 1123.28,
+                "text": "自己都需要奋力一搏",
+                "index": 282,
+                "startTime": 1119.35
+            },
+            {
+                "end": 1131.82,
+                "text": "天宝五载",
+                "index": 283,
+                "startTime": 1130.6
+            },
+            {
+                "end": 1135.64,
+                "text": "35岁的杜甫启程前往长安",
+                "index": 284,
+                "startTime": 1132.84
+            },
+            {
+                "end": 1139.15,
+                "text": "他满怀信心而来",
+                "index": 285,
+                "startTime": 1137.24
+            },
+            {
+                "end": 1144.58,
+                "text": "却在次年的考试中遭遇了一场意外的阴谋",
+                "index": 286,
+                "startTime": 1139.15
+            },
+            {
+                "end": 1147,
+                "text": "长安苦寒",
+                "index": 287,
+                "startTime": 1144.9
+            },
+            {
+                "end": 1148.08,
+                "text": "那一年",
+                "index": 288,
+                "startTime": 1147
+            },
+            {
+                "end": 1150.32,
+                "text": "唐玄宗发布诏书",
+                "index": 289,
+                "startTime": 1148.08
+            },
+            {
+                "end": 1152.03,
+                "text": "号召天下士人",
+                "index": 290,
+                "startTime": 1150.32
+            },
+            {
+                "end": 1156.26,
+                "text": "有一技之长的都到京师就选",
+                "index": 291,
+                "startTime": 1152.03
+            },
+            {
+                "end": 1158.8,
+                "text": "天赐良机",
+                "index": 292,
+                "startTime": 1156.68
+            },
+            {
+                "end": 1160.8,
+                "text": "杜甫志在必得",
+                "index": 293,
+                "startTime": 1158.8
+            },
+            {
+                "end": 1164.43,
+                "text": "他已为此准备了数年",
+                "index": 294,
+                "startTime": 1161.98
+            },
+            {
+                "end": 1167.2,
+                "text": "此读书破万卷",
+                "index": 295,
+                "startTime": 1164.43
+            },
+            {
+                "end": 1171.46,
+                "text": "下笔如有神诗",
+                "index": 296,
+                "startTime": 1167.28
+            },
+            {
+                "end": 1173.47,
+                "text": "文才学业已经进",
+                "index": 297,
+                "startTime": 1171.46
+            },
+            {
+                "end": 1176.22,
+                "text": "甚至生出了语不惊人",
+                "index": 298,
+                "startTime": 1173.47
+            },
+            {
+                "end": 1177.48,
+                "text": "死不休的执念",
+                "index": 299,
+                "startTime": 1176.22
+            },
+            {
+                "end": 1181.19,
+                "text": "却一年年人最担",
+                "index": 300,
+                "startTime": 1177.48
+            },
+            {
+                "end": 1182.63,
+                "text": "他还是落败",
+                "index": 301,
+                "startTime": 1181.19
+            },
+            {
+                "end": 1189.64,
+                "text": "不知杜甫这次参加招贤考试的人全部都落败了",
+                "index": 302,
+                "startTime": 1183.89
+            },
+            {
+                "end": 1193.93,
+                "text": "为确保自身权力无虞",
+                "index": 303,
+                "startTime": 1191.62
+            },
+            {
+                "end": 1196.2,
+                "text": "身为监考官的宰相",
+                "index": 304,
+                "startTime": 1193.93
+            },
+            {
+                "end": 1198.06,
+                "text": "暗中操纵了全过程",
+                "index": 305,
+                "startTime": 1196.2
+            },
+            {
+                "end": 1201.21,
+                "text": "呈报结果时",
+                "index": 306,
+                "startTime": 1199.86
+            },
+            {
+                "end": 1202.74,
+                "text": "他甚至上表祝贺",
+                "index": 307,
+                "startTime": 1201.21
+            },
+            {
+                "end": 1203.82,
+                "text": "皇帝说",
+                "index": 308,
+                "startTime": 1202.74
+            },
+            {
+                "end": 1207.96,
+                "text": "这是野无遗贤黄子",
+                "index": 309,
+                "startTime": 1203.82
+            },
+            {
+                "end": 1215.13,
+                "text": "所以有才能的人早就被选上来了",
+                "index": 310,
+                "startTime": 1211.29
+            },
+            {
+                "end": 1221.16,
+                "text": "民间再没有能人永世",
+                "index": 311,
+                "startTime": 1215.13
+            },
+            {
+                "end": 1228.1,
+                "text": "这已经不是那个广纳天下贤才的大唐了",
+                "index": 312,
+                "startTime": 1222.8
+            },
+            {
+                "end": 1231.81,
+                "text": "不仅仅是人才选拔制度在动摇",
+                "index": 313,
+                "startTime": 1228.34
+            },
+            {
+                "end": 1233.86,
+                "text": "即至天宝年间",
+                "index": 314,
+                "startTime": 1231.81
+            },
+            {
+                "end": 1237.94,
+                "text": "维系大唐百余年安稳与发展的根本性制度",
+                "index": 315,
+                "startTime": 1233.86
+            },
+            {
+                "end": 1239.44,
+                "text": "都在动摇",
+                "index": 316,
+                "startTime": 1237.94
+            },
+            {
+                "end": 1244.49,
+                "text": "大唐帝国的生命力正在衰退",
+                "index": 317,
+                "startTime": 1240.68
+            },
+            {
+                "end": 1250.94,
+                "text": "但杜甫还不想离开长安",
+                "index": 318,
+                "startTime": 1247.89
+            },
+            {
+                "end": 1252.9,
+                "text": "他仍抱有幻想",
+                "index": 319,
+                "startTime": 1250.94
+            },
+            {
+                "end": 1256.02,
+                "text": "这令他饱受煎熬",
+                "index": 320,
+                "startTime": 1252.9
+            },
+            {
+                "end": 1259.6,
+                "text": "一边是生计无着",
+                "index": 321,
+                "startTime": 1257.64
+            },
+            {
+                "end": 1262.72,
+                "text": "几度沦于饥寒交迫的境地",
+                "index": 322,
+                "startTime": 1259.6
+            },
+            {
+                "end": 1267.86,
+                "text": "一边是不得不奔走求告于达官贵人的屈辱",
+                "index": 323,
+                "startTime": 1262.72
+            },
+            {
+                "end": 1273.93,
+                "text": "希望与沮丧渐渐都变得毫无新意",
+                "index": 324,
+                "startTime": 1269.46
+            },
+            {
+                "end": 1280.04,
+                "text": "疲惫而窘迫的杜甫在长安度过了匆匆数年",
+                "index": 325,
+                "startTime": 1274.51
+            },
+            {
+                "end": 1286.69,
+                "text": "熬到天宝十载",
+                "index": 326,
+                "startTime": 1284.66
+            },
+            {
+                "end": 1288.9,
+                "text": "事情似乎有了转机",
+                "index": 327,
+                "startTime": 1286.69
+            },
+            {
+                "end": 1293.14,
+                "text": "皇帝打算举行祭祀盛典",
+                "index": 328,
+                "startTime": 1290.24
+            },
+            {
+                "end": 1296.25,
+                "text": "杜甫接连献上三大礼赋",
+                "index": 329,
+                "startTime": 1293.14
+            },
+            {
+                "end": 1297.72,
+                "text": "受到赏识",
+                "index": 330,
+                "startTime": 1296.25
+            },
+            {
+                "end": 1300.63,
+                "text": "进入了等候分配官职的行列",
+                "index": 331,
+                "startTime": 1297.72
+            },
+            {
+                "end": 1305.5,
+                "text": "结果一等就又是4年",
+                "index": 332,
+                "startTime": 1302.43
+            },
+            {
+                "end": 1313.18,
+                "text": "面对长时间的困顿",
+                "index": 333,
+                "startTime": 1311.02
+            },
+            {
+                "end": 1316.18,
+                "text": "44岁的杜甫不得不妥协",
+                "index": 334,
+                "startTime": 1313.18
+            },
+            {
+                "end": 1318.78,
+                "text": "接受了一个芝麻小官",
+                "index": 335,
+                "startTime": 1316.18
+            },
+            {
+                "end": 1323.7,
+                "text": "主要职责是看守兵甲器账",
+                "index": 336,
+                "startTime": 1320.18
+            },
+            {
+                "end": 1327.3,
+                "text": "管理门禁钥匙",
+                "index": 337,
+                "startTime": 1323.7
+            },
+            {
+                "end": 1335.1,
+                "text": "蹉跎落寞中",
+                "index": 338,
+                "startTime": 1333.76
+            },
+            {
+                "end": 1339.52,
+                "text": "杜甫偶尔回忆起和李白的相聚",
+                "index": 339,
+                "startTime": 1336.24
+            },
+            {
+                "end": 1343.14,
+                "text": "他记得那些高天流云",
+                "index": 340,
+                "startTime": 1339.88
+            },
+            {
+                "end": 1345.96,
+                "text": "大江大河世外道先",
+                "index": 341,
+                "startTime": 1343.14
+            },
+            {
+                "end": 1355.56,
+                "text": "但此时的杜甫一从头到脚都浸泡在苦难之中",
+                "index": 342,
+                "startTime": 1349.74
+            },
+            {
+                "end": 1362.64,
+                "text": "而无数个体生命的悲剧只是更大的危机的预言",
+                "index": 343,
+                "startTime": 1356.52
+            },
+            {
+                "end": 1371.14,
+                "text": "天宝14载",
+                "index": 344,
+                "startTime": 1369.74
+            },
+            {
+                "end": 1375.64,
+                "text": "东公元700 55年12月16日",
+                "index": 345,
+                "startTime": 1371.14
+            },
+            {
+                "end": 1377.7,
+                "text": "安史之乱爆发",
+                "index": 346,
+                "startTime": 1375.64
+            },
+            {
+                "end": 1382.6,
+                "text": "这是一个刺骨寒冷的夜晚",
+                "index": 347,
+                "startTime": 1379.94
+            },
+            {
+                "end": 1385.22,
+                "text": "兼任平卢范阳",
+                "index": 348,
+                "startTime": 1382.7
+            },
+            {
+                "end": 1389.73,
+                "text": "河东三镇节度使的安禄山携部下史思明",
+                "index": 349,
+                "startTime": 1385.22
+            },
+            {
+                "end": 1397.29,
+                "text": "从河北起兵反叛",
+                "index": 350,
+                "startTime": 1393.81
+            },
+            {
+                "end": 1403.16,
+                "text": "八品小吏杜甫刚刚上任一个多月",
+                "index": 351,
+                "startTime": 1399.4
+            },
+            {
+                "end": 1407.4,
+                "text": "惊天之变猝不及防",
+                "index": 352,
+                "startTime": 1404.32
+            },
+            {
+                "end": 1410.34,
+                "text": "叛乱如晴天霹雳一般",
+                "index": 353,
+                "startTime": 1407.4
+            },
+            {
+                "end": 1413.82,
+                "text": "震撼了太平已久的大唐帝国",
+                "index": 354,
+                "startTime": 1410.34
+            },
+            {
+                "end": 1418.27,
+                "text": "安禄山的部队一路南下",
+                "index": 355,
+                "startTime": 1415.46
+            },
+            {
+                "end": 1419.82,
+                "text": "势如破竹",
+                "index": 356,
+                "startTime": 1418.27
+            },
+            {
+                "end": 1423.11,
+                "text": "拱卫长安的最后一道屏障",
+                "index": 357,
+                "startTime": 1420.48
+            },
+            {
+                "end": 1425.84,
+                "text": "潼关半年后失守",
+                "index": 358,
+                "startTime": 1423.11
+            },
+            {
+                "end": 1431.27,
+                "text": "72岁的唐玄宗带着几千禁军",
+                "index": 359,
+                "startTime": 1427.44
+            },
+            {
+                "end": 1435.78,
+                "text": "携家眷亲信在夜色中逃离长安",
+                "index": 360,
+                "startTime": 1431.27
+            },
+            {
+                "end": 1444.2,
+                "text": "如此强大的帝国几乎瞬间崩塌",
+                "index": 361,
+                "startTime": 1440
+            },
+            {
+                "end": 1447.09,
+                "text": "叛乱者安禄山",
+                "index": 362,
+                "startTime": 1445.3
+            },
+            {
+                "end": 1452.02,
+                "text": "恰恰是皇帝一手提拔重用宠信之人",
+                "index": 363,
+                "startTime": 1447.09
+            },
+            {
+                "end": 1460.44,
+                "text": "经过几代人高歌猛进的开拓",
+                "index": 364,
+                "startTime": 1457
+            },
+            {
+                "end": 1464.58,
+                "text": "唐帝国的国境极为辽阔",
+                "index": 365,
+                "startTime": 1460.44
+            },
+            {
+                "end": 1467.6,
+                "text": "为了加强对边疆的控制",
+                "index": 366,
+                "startTime": 1465.06
+            },
+            {
+                "end": 1471.08,
+                "text": "唐玄宗在边地设了十个军阵",
+                "index": 367,
+                "startTime": 1467.6
+            },
+            {
+                "end": 1475.27,
+                "text": "有九个节度使和一个侵略式管理",
+                "index": 368,
+                "startTime": 1471.08
+            },
+            {
+                "end": 1480.52,
+                "text": "劫是当时的一种拳拳印信",
+                "index": 369,
+                "startTime": 1476.99
+            },
+            {
+                "end": 1485.51,
+                "text": "受此印信者可全权调度辖地的人口",
+                "index": 370,
+                "startTime": 1480.52
+            },
+            {
+                "end": 1486.38,
+                "text": "土地",
+                "index": 371,
+                "startTime": 1485.51
+            },
+            {
+                "end": 1490.4,
+                "text": "兵家税赋节度使",
+                "index": 372,
+                "startTime": 1486.38
+            },
+            {
+                "end": 1492.26,
+                "text": "由皇帝指派任命",
+                "index": 373,
+                "startTime": 1490.4
+            },
+            {
+                "end": 1493.61,
+                "text": "权力极大",
+                "index": 374,
+                "startTime": 1492.26
+            },
+            {
+                "end": 1494.9,
+                "text": "雄踞一方",
+                "index": 375,
+                "startTime": 1493.61
+            },
+            {
+                "end": 1497.26,
+                "text": "成为藩镇",
+                "index": 376,
+                "startTime": 1494.9
+            },
+            {
+                "end": 1501,
+                "text": "玄宗逐渐着用五人为节度",
+                "index": 377,
+                "startTime": 1498.22
+            },
+            {
+                "end": 1505.26,
+                "text": "使实际形成了军人割据",
+                "index": 378,
+                "startTime": 1501
+            },
+            {
+                "end": 1506.86,
+                "text": "伟大不掉",
+                "index": 379,
+                "startTime": 1505.58
+            },
+            {
+                "end": 1509.34,
+                "text": "终成皇权大患",
+                "index": 380,
+                "startTime": 1506.86
+            },
+            {
+                "end": 1515.04,
+                "text": "安禄山的势力和野心",
+                "index": 381,
+                "startTime": 1512.68
+            },
+            {
+                "end": 1519.22,
+                "text": "最终刺破了绚烂盛景的气泡",
+                "index": 382,
+                "startTime": 1515.28
+            },
+            {
+                "end": 1522.05,
+                "text": "帝国潜在已久的危险",
+                "index": 383,
+                "startTime": 1519.38
+            },
+            {
+                "end": 1526.1,
+                "text": "以最激烈的方式席卷了所有人",
+                "index": 384,
+                "startTime": 1522.05
+            },
+            {
+                "end": 1533.86,
+                "text": "长安再不是那座流光溢彩的都城",
+                "index": 385,
+                "startTime": 1528.74
+            },
+            {
+                "end": 1539.72,
+                "text": "音乐",
+                "index": 386,
+                "startTime": 1536.46
+            },
+            {
+                "end": 1554.46,
+                "text": "贵妃杨玉环被突然推上一条奔赴黄泉的不归路",
+                "index": 387,
+                "startTime": 1548
+            },
+            {
+                "end": 1560.32,
+                "text": "道路尽头就将天人两隔",
+                "index": 388,
+                "startTime": 1555.68
+            },
+            {
+                "end": 1567.12,
+                "text": "兵变发生在皇帝一行向西逃亡的第三天",
+                "index": 389,
+                "startTime": 1562.84
+            },
+            {
+                "end": 1571.83,
+                "text": "护卫的禁军在马嵬坡止步不前",
+                "index": 390,
+                "startTime": 1568.36
+            },
+            {
+                "end": 1578,
+                "text": "矛头直指央视一族宰相杨国忠被杀",
+                "index": 391,
+                "startTime": 1571.83
+            },
+            {
+                "end": 1583.1,
+                "text": "但这还是无法平息官兵的愤怒",
+                "index": 392,
+                "startTime": 1579.8
+            },
+            {
+                "end": 1588.34,
+                "text": "他们要求杨国忠的妹妹杨贵妃同罪",
+                "index": 393,
+                "startTime": 1583.1
+            },
+            {
+                "end": 1595.06,
+                "text": "唐玄宗需要做出抉择",
+                "index": 394,
+                "startTime": 1591.56
+            },
+            {
+                "end": 1605.72,
+                "text": "但此刻他如同坐在一个被点燃的火药桶上",
+                "index": 395,
+                "startTime": 1600.68
+            },
+            {
+                "end": 1607.34,
+                "text": "性命攸关",
+                "index": 396,
+                "startTime": 1605.72
+            },
+            {
+                "end": 1614.5,
+                "text": "威名一世的唐玄宗放弃了他的爱人",
+                "index": 397,
+                "startTime": 1609.08
+            },
+            {
+                "end": 1620.74,
+                "text": "集万千宠爱于一身的杨贵妃",
+                "index": 398,
+                "startTime": 1617.36
+            },
+            {
+                "end": 1623.78,
+                "text": "即将走完一生的最后几步",
+                "index": 399,
+                "startTime": 1620.74
+            },
+            {
+                "end": 1631.9,
+                "text": "当年李白曾为他写下云想衣裳花想容的诗句",
+                "index": 400,
+                "startTime": 1625.24
+            },
+            {
+                "end": 1637.52,
+                "text": "他怎么也不会想到自己的结局会是这样的",
+                "index": 401,
+                "startTime": 1632.68
+            },
+            {
+                "end": 1642.42,
+                "text": "这原本是多么美妙的光景啊",
+                "index": 402,
+                "startTime": 1639.34
+            },
+            {
+                "end": 1645.38,
+                "text": "江山无限",
+                "index": 403,
+                "startTime": 1643.68
+            },
+            {
+                "end": 1647.36,
+                "text": "情爱无险",
+                "index": 404,
+                "startTime": 1645.7
+            },
+            {
+                "end": 1653.85,
+                "text": "但他却要带着巨大的震惊和无奈永远离去",
+                "index": 405,
+                "startTime": 1648.4
+            },
+            {
+                "end": 1657.75,
+                "text": "他根本没有任何机会辩解和后悔",
+                "index": 406,
+                "startTime": 1653.96
+            },
+            {
+                "end": 1665.16,
+                "text": "一转身就是一个时代的一去不返",
+                "index": 407,
+                "startTime": 1660.09
+            },
+            {
+                "end": 1677.9,
+                "text": "帝国没有了方向",
+                "index": 408,
+                "startTime": 1675.04
+            },
+            {
+                "end": 1680.72,
+                "text": "举国观望之际",
+                "index": 409,
+                "startTime": 1679.08
+            },
+            {
+                "end": 1683.02,
+                "text": "北方突然传来消息",
+                "index": 410,
+                "startTime": 1680.72
+            },
+            {
+                "end": 1687.12,
+                "text": "太子李亨在灵武登基称帝",
+                "index": 411,
+                "startTime": 1683.28
+            },
+            {
+                "end": 1689.42,
+                "text": "是为唐肃宗",
+                "index": 412,
+                "startTime": 1687.12
+            },
+            {
+                "end": 1692.28,
+                "text": "听闻此讯",
+                "index": 413,
+                "startTime": 1690.82
+            },
+            {
+                "end": 1695.37,
+                "text": "正在流亡中的杜甫即刻北上",
+                "index": 414,
+                "startTime": 1692.28
+            },
+            {
+                "end": 1698.44,
+                "text": "却在途中被叛军俘获",
+                "index": 415,
+                "startTime": 1695.37
+            },
+            {
+                "end": 1700.96,
+                "text": "押回长安",
+                "index": 416,
+                "startTime": 1698.44
+            },
+            {
+                "end": 1706.07,
+                "text": "岁月不知人间有变",
+                "index": 417,
+                "startTime": 1703.56
+            },
+            {
+                "end": 1709.58,
+                "text": "又一个春天如常到来",
+                "index": 418,
+                "startTime": 1706.07
+            },
+            {
+                "end": 1716.86,
+                "text": "沦陷的长安城凋敝零落死寂一般",
+                "index": 419,
+                "startTime": 1710.92
+            },
+            {
+                "end": 1720.99,
+                "text": "杜甫百感交集",
+                "index": 420,
+                "startTime": 1717.55
+            },
+            {
+                "end": 1732.39,
+                "text": "目睹繁华转身后的血腥与黑暗",
+                "index": 421,
+                "startTime": 1728.68
+            },
+            {
+                "end": 1736.78,
+                "text": "诗人杜甫的悲伤开始超越个人的基础",
+                "index": 422,
+                "startTime": 1732.39
+            },
+            {
+                "end": 1738.99,
+                "text": "命运覆盖到大唐",
+                "index": 423,
+                "startTime": 1736.78
+            },
+            {
+                "end": 1740.61,
+                "text": "惊变的芸芸众生",
+                "index": 424,
+                "startTime": 1738.99
+            },
+            {
+                "end": 1746.94,
+                "text": "诗不再只是闲情雅兴的书法",
+                "index": 425,
+                "startTime": 1742.77
+            },
+            {
+                "end": 1750.48,
+                "text": "它成了历史的记录",
+                "index": 426,
+                "startTime": 1746.94
+            },
+            {
+                "end": 1755.49,
+                "text": "新帝即位",
+                "index": 427,
+                "startTime": 1754.12
+            },
+            {
+                "end": 1762.16,
+                "text": "也无人知晓",
+                "index": 428,
+                "startTime": 1760.4
+            },
+            {
+                "end": 1767.64,
+                "text": "大唐就这样悄无声息地画上了一个休止符",
+                "index": 429,
+                "startTime": 1762.16
+            },
+            {
+                "end": 1772.19,
+                "text": "中国历史的一次巨大转折",
+                "index": 430,
+                "startTime": 1769.5
+            },
+            {
+                "end": 1776.36,
+                "text": "在兵荒马乱中仓促上演",
+                "index": 431,
+                "startTime": 1772.19
+            },
+            {
+                "end": 1795.56,
+                "text": "侥幸逃出长安后",
+                "index": 432,
+                "startTime": 1793.38
+            },
+            {
+                "end": 1799.28,
+                "text": "杜甫做的第一件事是直奔新帝",
+                "index": 433,
+                "startTime": 1795.56
+            },
+            {
+                "end": 1801.6,
+                "text": "唐肃宗的凤翔大本营",
+                "index": 434,
+                "startTime": 1799.28
+            },
+            {
+                "end": 1806.78,
+                "text": "这可能是老师厚道的书生",
+                "index": 435,
+                "startTime": 1804.1
+            },
+            {
+                "end": 1810.23,
+                "text": "杜甫一生中最疯狂的举动",
+                "index": 436,
+                "startTime": 1806.78
+            },
+            {
+                "end": 1814.82,
+                "text": "虽然自身难保",
+                "index": 437,
+                "startTime": 1813.09
+            },
+            {
+                "end": 1816.52,
+                "text": "但只要有机会",
+                "index": 438,
+                "startTime": 1814.82
+            },
+            {
+                "end": 1820.66,
+                "text": "他仍想报效国家",
+                "index": 439,
+                "startTime": 1816.52
+            },
+            {
+                "end": 1824.69,
+                "text": "唐肃宗被这份忠义感动",
+                "index": 440,
+                "startTime": 1821.49
+            },
+            {
+                "end": 1828.41,
+                "text": "赐予他左拾遗一职",
+                "index": 441,
+                "startTime": 1824.69
+            },
+            {
+                "end": 1831.59,
+                "text": "这是皇帝身边的谏官",
+                "index": 442,
+                "startTime": 1829.26
+            },
+            {
+                "end": 1833.04,
+                "text": "关节很低",
+                "index": 443,
+                "startTime": 1831.59
+            },
+            {
+                "end": 1837.3,
+                "text": "却是杜甫做过的最大的官",
+                "index": 444,
+                "startTime": 1833.04
+            },
+            {
+                "end": 1846.05,
+                "text": "然而乱局之下",
+                "index": 445,
+                "startTime": 1844.08
+            },
+            {
+                "end": 1849.1,
+                "text": "政治生活远非想象中那样",
+                "index": 446,
+                "startTime": 1846.05
+            },
+            {
+                "end": 1850.38,
+                "text": "秩序分明",
+                "index": 447,
+                "startTime": 1849.1
+            },
+            {
+                "end": 1858.03,
+                "text": "险些被定罪杀头",
+                "index": 448,
+                "startTime": 1855.45
+            },
+            {
+                "end": 1863.88,
+                "text": "杜甫为之努力了近乎一生的出世报国梦",
+                "index": 449,
+                "startTime": 1859.51
+            },
+            {
+                "end": 1868.14,
+                "text": "和所有人曾以为永不落幕的大唐盛宴",
+                "index": 450,
+                "startTime": 1863.88
+            },
+            {
+                "end": 1870.5,
+                "text": "一起结束了",
+                "index": 451,
+                "startTime": 1868.14
+            },
+            {
+                "end": 1876.69,
+                "text": "但杜甫并没有放弃内心之道",
+                "index": 452,
+                "startTime": 1873.4
+            },
+            {
+                "end": 1882.26,
+                "text": "危难中舍生取义的道德人格",
+                "index": 453,
+                "startTime": 1878.55
+            },
+            {
+                "end": 1885.64,
+                "text": "以天下苍生为己任的使命感",
+                "index": 454,
+                "startTime": 1882.28
+            },
+            {
+                "end": 1889.24,
+                "text": "是儒家精神的亘古",
+                "index": 455,
+                "startTime": 1885.64
+            },
+            {
+                "end": 1894.48,
+                "text": "即便一再被贬",
+                "index": 456,
+                "startTime": 1892.13
+            },
+            {
+                "end": 1899.34,
+                "text": "杜甫做了自己认为必须要做的事",
+                "index": 457,
+                "startTime": 1894.48
+            },
+            {
+                "end": 1901.68,
+                "text": "千秋万岁",
+                "index": 458,
+                "startTime": 1900.28
+            },
+            {
+                "end": 1905.44,
+                "text": "名不过是寂寞身后事",
+                "index": 459,
+                "startTime": 1901.68
+            },
+            {
+                "end": 1908.64,
+                "text": "只有坚守心中的理想",
+                "index": 460,
+                "startTime": 1906.02
+            },
+            {
+                "end": 1914.76,
+                "text": "才是儒者的长生之道",
+                "index": 461,
+                "startTime": 1908.64
+            },
+            {
+                "end": 1918.24,
+                "text": "千年以来",
+                "index": 462,
+                "startTime": 1916.72
+            },
+            {
+                "end": 1920.4,
+                "text": "政治时有腐败",
+                "index": 463,
+                "startTime": 1918.24
+            },
+            {
+                "end": 1922.32,
+                "text": "财富时有困境",
+                "index": 464,
+                "startTime": 1920.4
+            },
+            {
+                "end": 1924.36,
+                "text": "武历史有崩溃",
+                "index": 465,
+                "startTime": 1922.32
+            },
+            {
+                "end": 1926.04,
+                "text": "家国时有灾难",
+                "index": 466,
+                "startTime": 1924.36
+            },
+            {
+                "end": 1930.21,
+                "text": "但只要维持大道的人",
+                "index": 467,
+                "startTime": 1927.66
+            },
+            {
+                "end": 1934.38,
+                "text": "在中国的历史命脉就不会断",
+                "index": 468,
+                "startTime": 1930.21
+            },
+            {
+                "end": 1943.1,
+                "text": "杜甫就是这样的人",
+                "index": 469,
+                "startTime": 1936
+            },
+            {
+                "end": 1955.06,
+                "text": "一打就是数年",
+                "index": 470,
+                "startTime": 1953.54
+            },
+            {
+                "end": 1961.3,
+                "text": "各路势力纷纷卷入战火不断蔓延",
+                "index": 471,
+                "startTime": 1956.14
+            },
+            {
+                "end": 1966.09,
+                "text": "杜甫从长安成立一个勉强度日的小吏",
+                "index": 472,
+                "startTime": 1961.66
+            },
+            {
+                "end": 1968.16,
+                "text": "变成了朝不保夕的地方",
+                "index": 473,
+                "startTime": 1966.09
+            },
+            {
+                "end": 1971.35,
+                "text": "变官一叶飘萍",
+                "index": 474,
+                "startTime": 1968.16
+            },
+            {
+                "end": 1973.16,
+                "text": "无处归依",
+                "index": 475,
+                "startTime": 1971.35
+            },
+            {
+                "end": 1979.86,
+                "text": "昔日繁花似锦的大唐已是哀鸿遍野",
+                "index": 476,
+                "startTime": 1975.46
+            },
+            {
+                "end": 1986.16,
+                "text": "几乎整个黄河中下游人烟断绝",
+                "index": 477,
+                "startTime": 1981.78
+            },
+            {
+                "end": 1988,
+                "text": "千里迢迢",
+                "index": 478,
+                "startTime": 1986.36
+            },
+            {
+                "end": 1992.59,
+                "text": "玄宗时期",
+                "index": 479,
+                "startTime": 1991.04
+            },
+            {
+                "end": 1995.72,
+                "text": "府兵制被改为募兵制",
+                "index": 480,
+                "startTime": 1992.59
+            },
+            {
+                "end": 1999.84,
+                "text": "军队招募专事作战的职业军人",
+                "index": 481,
+                "startTime": 1995.72
+            },
+            {
+                "end": 2005.26,
+                "text": "过惯了安定和平日子的中原人很少入伍",
+                "index": 482,
+                "startTime": 1999.88
+            },
+            {
+                "end": 2009.7,
+                "text": "军队的实际控制逐渐旁落",
+                "index": 483,
+                "startTime": 2005.26
+            },
+            {
+                "end": 2012.47,
+                "text": "战乱爆发后",
+                "index": 484,
+                "startTime": 2010.98
+            },
+            {
+                "end": 2016.26,
+                "text": "唐军和叛军的战斗反复焦灼",
+                "index": 485,
+                "startTime": 2012.47
+            },
+            {
+                "end": 2021.23,
+                "text": "公元759年",
+                "index": 486,
+                "startTime": 2019.08
+            },
+            {
+                "end": 2025.92,
+                "text": "两军在河北邺城一带展开激烈的攻防大战",
+                "index": 487,
+                "startTime": 2021.23
+            },
+            {
+                "end": 2029.25,
+                "text": "唐军一度全线崩溃",
+                "index": 488,
+                "startTime": 2026.92
+            },
+            {
+                "end": 2030.84,
+                "text": "为补充兵力",
+                "index": 489,
+                "startTime": 2029.25
+            },
+            {
+                "end": 2034.44,
+                "text": "官府疯狂地在各地抽丁抓人",
+                "index": 490,
+                "startTime": 2030.84
+            },
+            {
+                "end": 2038.62,
+                "text": "裹挟在逃难人群中的杜甫",
+                "index": 491,
+                "startTime": 2035.84
+            },
+            {
+                "end": 2042.7,
+                "text": "由洛阳途经新安石壕",
+                "index": 492,
+                "startTime": 2038.62
+            },
+            {
+                "end": 2043.93,
+                "text": "潼关等地",
+                "index": 493,
+                "startTime": 2042.7
+            },
+            {
+                "end": 2045.38,
+                "text": "小行夜宿",
+                "index": 494,
+                "startTime": 2043.93
+            },
+            {
+                "end": 2051.62,
+                "text": "一路上他看到了太多生死别离",
+                "index": 495,
+                "startTime": 2047.88
+            },
+            {
+                "end": 2053.14,
+                "text": "艰难民生",
+                "index": 496,
+                "startTime": 2051.62
+            },
+            {
+                "end": 2057.07,
+                "text": "铺天盖地的灾难面前",
+                "index": 497,
+                "startTime": 2054.56
+            },
+            {
+                "end": 2059.9,
+                "text": "他忠实地记录下眼前所见",
+                "index": 498,
+                "startTime": 2057.07
+            },
+            {
+                "end": 2061.35,
+                "text": "没有虚构",
+                "index": 499,
+                "startTime": 2059.94
+            },
+            {
+                "end": 2062.73,
+                "text": "没有教室",
+                "index": 500,
+                "startTime": 2061.35
+            },
+            {
+                "end": 2064.68,
+                "text": "也没有煽情",
+                "index": 501,
+                "startTime": 2062.73
+            },
+            {
+                "end": 2069.14,
+                "text": "后人用三吏三别概括",
+                "index": 502,
+                "startTime": 2065.88
+            },
+            {
+                "end": 2072.14,
+                "text": "杜甫写下的这些长篇叙事诗",
+                "index": 503,
+                "startTime": 2069.14
+            },
+            {
+                "end": 2077.46,
+                "text": "它让普通人的生活和情感成为诗的主角",
+                "index": 504,
+                "startTime": 2073.12
+            },
+            {
+                "end": 2081.3,
+                "text": "将史写成了诗",
+                "index": 505,
+                "startTime": 2077.46
+            },
+            {
+                "end": 2085.37,
+                "text": "每一句诗都如同一柄利刃",
+                "index": 506,
+                "startTime": 2081.81
+            },
+            {
+                "end": 2086.92,
+                "text": "刺痛人心",
+                "index": 507,
+                "startTime": 2085.37
+            },
+            {
+                "end": 2091.52,
+                "text": "它们是杜甫创作历程上的丰碑",
+                "index": 508,
+                "startTime": 2088.44
+            },
+            {
+                "end": 2096.02,
+                "text": "也是历史深处永远的伤痛",
+                "index": 509,
+                "startTime": 2091.52
+            },
+            {
+                "end": 2100.51,
+                "text": "据粗略统计",
+                "index": 510,
+                "startTime": 2098.84
+            },
+            {
+                "end": 2103.46,
+                "text": "这场历时7年多的变乱中",
+                "index": 511,
+                "startTime": 2100.51
+            },
+            {
+                "end": 2106.44,
+                "text": "约有3000万人流离失所",
+                "index": 512,
+                "startTime": 2103.68
+            },
+            {
+                "end": 2108.76,
+                "text": "死于战乱或饥荒",
+                "index": 513,
+                "startTime": 2106.44
+            },
+            {
+                "end": 2116.87,
+                "text": "这是一场自上而下的全面深重的震荡",
+                "index": 514,
+                "startTime": 2112.26
+            },
+            {
+                "end": 2118.62,
+                "text": "无人幸免",
+                "index": 515,
+                "startTime": 2116.87
+            },
+            {
+                "end": 2123.88,
+                "text": "安禄山死于儿子之手",
+                "index": 516,
+                "startTime": 2120.96
+            },
+            {
+                "end": 2127.58,
+                "text": "他的儿子又被史思明杀死",
+                "index": 517,
+                "startTime": 2124.12
+            },
+            {
+                "end": 2132.26,
+                "text": "而后史思明也被自己的儿子所杀",
+                "index": 518,
+                "startTime": 2127.86
+            },
+            {
+                "end": 2147.32,
+                "text": "公元763年春",
+                "index": 519,
+                "startTime": 2144.78
+            },
+            {
+                "end": 2149.86,
+                "text": "唐军终于打赢了",
+                "index": 520,
+                "startTime": 2147.32
+            },
+            {
+                "end": 2160.56,
+                "text": "他们在前一年的5月先后离世",
+                "index": 521,
+                "startTime": 2155.76
+            },
+            {
+                "end": 2166.26,
+                "text": "在唐朝前后接近300年的历史中",
+                "index": 522,
+                "startTime": 2163
+            },
+            {
+                "end": 2169.76,
+                "text": "安史之乱发生的时间只在中期",
+                "index": 523,
+                "startTime": 2166.26
+            },
+            {
+                "end": 2173.95,
+                "text": "他从根本上动摇了帝国的上层结构",
+                "index": 524,
+                "startTime": 2170.74
+            },
+            {
+                "end": 2177.88,
+                "text": "削弱藩镇之祸未除",
+                "index": 525,
+                "startTime": 2175.18
+            },
+            {
+                "end": 2179.62,
+                "text": "民生不安",
+                "index": 526,
+                "startTime": 2177.88
+            },
+            {
+                "end": 2181.26,
+                "text": "边境不稳",
+                "index": 527,
+                "startTime": 2179.62
+            },
+            {
+                "end": 2187.25,
+                "text": "此后150年的大唐风流云散",
+                "index": 528,
+                "startTime": 2183.12
+            },
+            {
+                "end": 2188.88,
+                "text": "灾难中兴",
+                "index": 529,
+                "startTime": 2187.25
+            },
+            {
+                "end": 2192.34,
+                "text": "就如杜甫所写",
+                "index": 530,
+                "startTime": 2190.32
+            },
+            {
+                "end": 2194.62,
+                "text": "存者且偷生",
+                "index": 531,
+                "startTime": 2192.46
+            },
+            {
+                "end": 2198.76,
+                "text": "死者长已矣",
+                "index": 532,
+                "startTime": 2195.64
+            },
+            {
+                "end": 2210.52,
+                "text": "下一个落脚点在哪里",
+                "index": 533,
+                "startTime": 2208.1
+            },
+            {
+                "end": 2212.84,
+                "text": "杜甫自己也不知道",
+                "index": 534,
+                "startTime": 2210.52
+            },
+            {
+                "end": 2216.9,
+                "text": "她已经习惯了辗转漂泊",
+                "index": 535,
+                "startTime": 2214.12
+            },
+            {
+                "end": 2220.24,
+                "text": "有时想着村也走",
+                "index": 536,
+                "startTime": 2217.4
+            },
+            {
+                "end": 2223.18,
+                "text": "有时沿着山路走",
+                "index": 537,
+                "startTime": 2220.24
+            },
+            {
+                "end": 2226.28,
+                "text": "有时顺着水流走",
+                "index": 538,
+                "startTime": 2223.18
+            },
+            {
+                "end": 2229.8,
+                "text": "明日隔山岳",
+                "index": 539,
+                "startTime": 2227.92
+            },
+            {
+                "end": 2232.14,
+                "text": "世事两茫茫",
+                "index": 540,
+                "startTime": 2229.84
+            },
+            {
+                "end": 2240.58,
+                "text": "就像春秋时期周游列国的孔子招行青泥上木",
+                "index": 541,
+                "startTime": 2234.24
+            },
+            {
+                "end": 2242.48,
+                "text": "在青泥中",
+                "index": 542,
+                "startTime": 2240.58
+            },
+            {
+                "end": 2246.43,
+                "text": "杜甫也在慢慢积虑中",
+                "index": 543,
+                "startTime": 2243.62
+            },
+            {
+                "end": 2250.48,
+                "text": "一步步走向自己的内心",
+                "index": 544,
+                "startTime": 2246.43
+            },
+            {
+                "end": 2253.26,
+                "text": "他一路流亡",
+                "index": 545,
+                "startTime": 2251.86
+            },
+            {
+                "end": 2254.4,
+                "text": "取到关陇",
+                "index": 546,
+                "startTime": 2253.26
+            },
+            {
+                "end": 2256.46,
+                "text": "进入川蜀之地",
+                "index": 547,
+                "startTime": 2254.4
+            },
+            {
+                "end": 2258.32,
+                "text": "乱世中",
+                "index": 548,
+                "startTime": 2257.22
+            },
+            {
+                "end": 2260.93,
+                "text": "他抛弃了身上卑微的官职",
+                "index": 549,
+                "startTime": 2258.32
+            },
+            {
+                "end": 2264.36,
+                "text": "复归为一介平民",
+                "index": 550,
+                "startTime": 2260.93
+            },
+            {
+                "end": 2272.86,
+                "text": "年过半百的杜甫几乎一无所有",
+                "index": 551,
+                "startTime": 2269.18
+            },
+            {
+                "end": 2274.75,
+                "text": "除了诗歌",
+                "index": 552,
+                "startTime": 2273.1
+            },
+            {
+                "end": 2277.06,
+                "text": "生命一样的诗歌",
+                "index": 553,
+                "startTime": 2274.75
+            },
+            {
+                "end": 2281.42,
+                "text": "尽管我声苦飘零",
+                "index": 554,
+                "startTime": 2278.44
+            },
+            {
+                "end": 2283.34,
+                "text": "索利有嗟叹",
+                "index": 555,
+                "startTime": 2281.42
+            },
+            {
+                "end": 2286.25,
+                "text": "但在诗歌中",
+                "index": 556,
+                "startTime": 2284.9
+            },
+            {
+                "end": 2289.66,
+                "text": "他从来都不只为自己的命运探玩",
+                "index": 557,
+                "startTime": 2286.25
+            },
+            {
+                "end": 2294.16,
+                "text": "遭遇幼子饿死的刻骨之痛时",
+                "index": 558,
+                "startTime": 2290.78
+            },
+            {
+                "end": 2305.02,
+                "text": "茅屋在风雨中飘摇时",
+                "index": 559,
+                "startTime": 2302.36
+            },
+            {
+                "end": 2307.51,
+                "text": "他祈愿安得广厦",
+                "index": 560,
+                "startTime": 2305.02
+            },
+            {
+                "end": 2308.44,
+                "text": "千万间",
+                "index": 561,
+                "startTime": 2307.51
+            },
+            {
+                "end": 2309.7,
+                "text": "大庇天下",
+                "index": 562,
+                "startTime": 2308.44
+            },
+            {
+                "end": 2312.69,
+                "text": "寒士俱欢颜",
+                "index": 563,
+                "startTime": 2309.7
+            },
+            {
+                "end": 2316.8,
+                "text": "他尝遍了社会底层的酸辛疾苦",
+                "index": 564,
+                "startTime": 2312.85
+            },
+            {
+                "end": 2320.7,
+                "text": "他的目光无法不在低处徘徊",
+                "index": 565,
+                "startTime": 2316.8
+            },
+            {
+                "end": 2325.98,
+                "text": "因为他本就是天地一沙鸥",
+                "index": 566,
+                "startTime": 2320.7
+            },
+            {
+                "end": 2332.14,
+                "text": "杜甫经历了彻底的失去",
+                "index": 567,
+                "startTime": 2329.42
+            },
+            {
+                "end": 2334.3,
+                "text": "也完成了彻底的重建",
+                "index": 568,
+                "startTime": 2332.14
+            },
+            {
+                "end": 2341.46,
+                "text": "他自称儒老儒甚至腐儒",
+                "index": 569,
+                "startTime": 2336.52
+            },
+            {
+                "end": 2346.38,
+                "text": "他以写诗来完成儒家立言的使命",
+                "index": 570,
+                "startTime": 2342.94
+            },
+            {
+                "end": 2349.41,
+                "text": "诗歌中流露着仁爱",
+                "index": 571,
+                "startTime": 2347.46
+            },
+            {
+                "end": 2351.42,
+                "text": "呼唤着人生",
+                "index": 572,
+                "startTime": 2349.41
+            },
+            {
+                "end": 2357.33,
+                "text": "后人称杜甫为诗圣而成为圣贤",
+                "index": 573,
+                "startTime": 2352.48
+            },
+            {
+                "end": 2359.93,
+                "text": "正是儒家的最高理想",
+                "index": 574,
+                "startTime": 2357.33
+            },
+            {
+                "end": 2368.1,
+                "text": "安史之乱是唐乃至整个中国古代历史",
+                "index": 575,
+                "startTime": 2363.45
+            },
+            {
+                "end": 2369.81,
+                "text": "一个显见的拐点",
+                "index": 576,
+                "startTime": 2368.1
+            },
+            {
+                "end": 2373.26,
+                "text": "这也是一个文化的转折点",
+                "index": 577,
+                "startTime": 2369.81
+            },
+            {
+                "end": 2377.38,
+                "text": "诗人们开始超越一己之穷",
+                "index": 578,
+                "startTime": 2374.36
+            },
+            {
+                "end": 2383.74,
+                "text": "达把优家优吉和忧国忧民融为一体",
+                "index": 579,
+                "startTime": 2377.38
+            },
+            {
+                "end": 2388.1,
+                "text": "在自私的激情中注入理性的思考",
+                "index": 580,
+                "startTime": 2383.74
+            },
+            {
+                "end": 2392.46,
+                "text": "家国情怀和人本思想",
+                "index": 581,
+                "startTime": 2389.46
+            },
+            {
+                "end": 2398.52,
+                "text": "从此成为中国历史下半段进程的重要线索",
+                "index": 582,
+                "startTime": 2392.46
+            },
+            {
+                "end": 2402,
+                "text": "在人生最后一首诗作中",
+                "index": 583,
+                "startTime": 2399.22
+            },
+            {
+                "end": 2405.4,
+                "text": "儒者杜甫回忆了颠沛流离的一生",
+                "index": 584,
+                "startTime": 2402
+            },
+            {
+                "end": 2412.1,
+                "text": "她的心依然牵挂着苦难中的家和国",
+                "index": 585,
+                "startTime": 2406.42
+            },
+            {
+                "end": 2418.88,
+                "text": "虞舜罢弹琴上错雄鸣",
+                "index": 586,
+                "startTime": 2413.16
+            },
+            {
+                "end": 2423.59,
+                "text": "管犹伤半死兮",
+                "index": 587,
+                "startTime": 2418.88
+            },
+            {
+                "end": 2425.75,
+                "text": "圣贤名",
+                "index": 588,
+                "startTime": 2424.53
+            },
+            {
+                "end": 2428.84,
+                "text": "古淼积虑病",
+                "index": 589,
+                "startTime": 2425.75
+            },
+            {
+                "end": 2432.01,
+                "text": "年轻战",
+                "index": 590,
+                "startTime": 2428.84
+            },
+            {
+                "end": 2433.63,
+                "text": "血流依旧",
+                "index": 591,
+                "startTime": 2432.01
+            },
+            {
+                "end": 2437.12,
+                "text": "军声动至今",
+                "index": 592,
+                "startTime": 2433.63
+            },
+            {
+                "end": 2441.51,
+                "text": "葛洪诗定解许",
+                "index": 593,
+                "startTime": 2437.62
+            },
+            {
+                "end": 2445.81,
+                "text": "尽力还原家事",
+                "index": 594,
+                "startTime": 2441.51
+            },
+            {
+                "end": 2452.12,
+                "text": "丹砂诀无成涕作霖",
+                "index": 595,
+                "startTime": 2445.81
+            },
+            {
+                "end": 2508.63,
+                "text": "在成都草堂居住的5年",
+                "index": 596,
+                "startTime": 2505.76
+            },
+            {
+                "end": 2511.92,
+                "text": "是杜甫最后一段安定的生活",
+                "index": 597,
+                "startTime": 2508.63
+            },
+            {
+                "end": 2515.83,
+                "text": "等到草堂也住不了了",
+                "index": 598,
+                "startTime": 2513.46
+            },
+            {
+                "end": 2518.86,
+                "text": "它就沿着长江一边漂流",
+                "index": 599,
+                "startTime": 2515.83
+            },
+            {
+                "end": 2522.01,
+                "text": "一边借地短居",
+                "index": 600,
+                "startTime": 2518.86
+            },
+            {
+                "end": 2525.15,
+                "text": "行至夔州时",
+                "index": 601,
+                "startTime": 2523.48
+            },
+            {
+                "end": 2530.04,
+                "text": "杜甫看到一个叫李12娘的人在舞剑",
+                "index": 602,
+                "startTime": 2525.15
+            },
+            {
+                "end": 2533.1,
+                "text": "动人的身姿和娴熟的舞技",
+                "index": 603,
+                "startTime": 2530.26
+            },
+            {
+                "end": 2535.92,
+                "text": "让他想起了一个人",
+                "index": 604,
+                "startTime": 2533.1
+            },
+            {
+                "end": 2538.84,
+                "text": "他问李12娘师父是谁",
+                "index": 605,
+                "startTime": 2536.54
+            },
+            {
+                "end": 2544.42,
+                "text": "对方告诉她是公孙大娘",
+                "index": 606,
+                "startTime": 2540.28
+            },
+            {
+                "end": 2547.25,
+                "text": "听到这个名字",
+                "index": 607,
+                "startTime": 2545.46
+            },
+            {
+                "end": 2548.96,
+                "text": "已是老翁的杜甫",
+                "index": 608,
+                "startTime": 2547.25
+            },
+            {
+                "end": 2551.06,
+                "text": "激动难易",
+                "index": 609,
+                "startTime": 2548.96
+            },
+            {
+                "end": 2553.66,
+                "text": "六岁那年",
+                "index": 610,
+                "startTime": 2552.26
+            },
+            {
+                "end": 2557.03,
+                "text": "他曾亲眼看到公孙大娘的剑舞",
+                "index": 611,
+                "startTime": 2553.66
+            },
+            {
+                "end": 2563.87,
+                "text": "那绝世风采如同巨星一般照亮过他年少的心灵",
+                "index": 612,
+                "startTime": 2557.03
+            },
+            {
+                "end": 2569.74,
+                "text": "时隔50余年",
+                "index": 613,
+                "startTime": 2567.75
+            },
+            {
+                "end": 2574.06,
+                "text": "杜甫仍清晰记得那场穿越了时光的演出",
+                "index": 614,
+                "startTime": 2569.74
+            },
+            {
+                "end": 2578.24,
+                "text": "连同往昔的锦绣蓬勃",
+                "index": 615,
+                "startTime": 2575.08
+            },
+            {
+                "end": 2580.62,
+                "text": "痛楚和执念",
+                "index": 616,
+                "startTime": 2578.24
+            },
+            {
+                "end": 2584.64,
+                "text": "那是她对青春和盛唐的记忆",
+                "index": 617,
+                "startTime": 2581.02
+            },
+            {
+                "end": 2586.86,
+                "text": "而今回首",
+                "index": 618,
+                "startTime": 2585.46
+            },
+            {
+                "end": 2589.8,
+                "text": "只见无边落木萧萧",
+                "index": 619,
+                "startTime": 2586.86
+            },
+            {
+                "end": 2591.3,
+                "text": "下不尽",
+                "index": 620,
+                "startTime": 2589.8
+            },
+            {
+                "end": 2594.2,
+                "text": "长江滚滚来",
+                "index": 621,
+                "startTime": 2591.3
+            },
+            {
+                "end": 2597.44,
+                "text": "公元770年",
+                "index": 622,
+                "startTime": 2595.2
+            },
+            {
+                "end": 2603.31,
+                "text": "59岁的杜甫在湖南一条小船上走完了一生",
+                "index": 623,
+                "startTime": 2597.44
+            },
+            {
+                "end": 2606.85,
+                "text": "人生如寄",
+                "index": 624,
+                "startTime": 2605.47
+            },
+            {
+                "end": 2609.73,
+                "text": "但私人不朽",
+                "index": 625,
+                "startTime": 2606.85
+            },
+            {
+                "end": 2622.12,
+                "text": "杜甫一直挂怀的朋友李白",
+                "index": 626,
+                "startTime": 2619.34
+            },
+            {
+                "end": 2624.8,
+                "text": "同样没有躲过安史之乱",
+                "index": 627,
+                "startTime": 2622.12
+            },
+            {
+                "end": 2630.9,
+                "text": "但他竭尽全力撑住了跌宕起伏的一生",
+                "index": 628,
+                "startTime": 2626.06
+            },
+            {
+                "end": 2635.21,
+                "text": "在经历种种艰险阻碍后",
+                "index": 629,
+                "startTime": 2632.22
+            },
+            {
+                "end": 2637.31,
+                "text": "依然乐观地写道",
+                "index": 630,
+                "startTime": 2635.21
+            },
+            {
+                "end": 2640.3,
+                "text": "轻舟已过万重山",
+                "index": 631,
+                "startTime": 2637.31
+            },
+            {
+                "end": 2648.18,
+                "text": "对于李白人生或许不过是一场宿醉",
+                "index": 632,
+                "startTime": 2644.02
+            },
+            {
+                "end": 2652.7,
+                "text": "后人称李白为诗仙",
+                "index": 633,
+                "startTime": 2650.04
+            },
+            {
+                "end": 2655.95,
+                "text": "所有仰望他的人都知道",
+                "index": 634,
+                "startTime": 2653.65
+            },
+            {
+                "end": 2660.1,
+                "text": "他就是千古唯一的那个谪仙人",
+                "index": 635,
+                "startTime": 2655.95
+            },
+            {
+                "end": 2664.9,
+                "text": "杜甫没有成为李白",
+                "index": 636,
+                "startTime": 2662.72
+            },
+            {
+                "end": 2667.88,
+                "text": "他活出了另一种伟大的人生",
+                "index": 637,
+                "startTime": 2664.9
+            },
+            {
+                "end": 2671.14,
+                "text": "李白如从天上而来",
+                "index": 638,
+                "startTime": 2668.9
+            },
+            {
+                "end": 2672.22,
+                "text": "飞流直下",
+                "index": 639,
+                "startTime": 2671.14
+            },
+            {
+                "end": 2676.12,
+                "text": "杜甫如在大地上生长",
+                "index": 640,
+                "startTime": 2673.9
+            },
+            {
+                "end": 2677.77,
+                "text": "厚重深沉",
+                "index": 641,
+                "startTime": 2676.12
+            },
+            {
+                "end": 2681.19,
+                "text": "无论少了哪一个",
+                "index": 642,
+                "startTime": 2679.37
+            },
+            {
+                "end": 2685.69,
+                "text": "大唐的天空都将黯然失色",
+                "index": 643,
+                "startTime": 2681.19
+            },
+            {
+                "end": 2690.55,
+                "text": "2000多年前",
+                "index": 644,
+                "startTime": 2688.94
+            },
+            {
+                "end": 2693.88,
+                "text": "孔子与老子一如一道",
+                "index": 645,
+                "startTime": 2690.55
+            },
+            {
+                "end": 2696.42,
+                "text": "开启了中国思想的源头",
+                "index": 646,
+                "startTime": 2693.88
+            },
+            {
+                "end": 2701.52,
+                "text": "李杜二人一仙一圣",
+                "index": 647,
+                "startTime": 2698.14
+            },
+            {
+                "end": 2705.08,
+                "text": "世人仿佛再次见到同样的光彩",
+                "index": 648,
+                "startTime": 2701.52
+            },
+            {
+                "end": 2710.78,
+                "text": "他们承继了中国此前1000年的思想和精神",
+                "index": 649,
+                "startTime": 2706.38
+            },
+            {
+                "end": 2712.43,
+                "text": "相互照耀",
+                "index": 650,
+                "startTime": 2710.78
+            },
+            {
+                "end": 2715.46,
+                "text": "也照耀着中国",
+                "index": 651,
+                "startTime": 2712.43
+            },
+            {
+                "end": 2724.7,
+                "text": "李白辞世50年后",
+                "index": 652,
+                "startTime": 2722.28
+            },
+            {
+                "end": 2728.71,
+                "text": "他的诗歌和诗明依旧在四处传送",
+                "index": 653,
+                "startTime": 2724.7
+            },
+            {
+                "end": 2732.79,
+                "text": "在长江南岸的宣设方阵",
+                "index": 654,
+                "startTime": 2730.51
+            },
+            {
+                "end": 2735.14,
+                "text": "一位姓范的地方长官",
+                "index": 655,
+                "startTime": 2732.79
+            },
+            {
+                "end": 2737.36,
+                "text": "和大唐的无数文人一样",
+                "index": 656,
+                "startTime": 2735.14
+            },
+            {
+                "end": 2739.29,
+                "text": "是李白为偶像",
+                "index": 657,
+                "startTime": 2737.36
+            },
+            {
+                "end": 2742.08,
+                "text": "数年寻访后",
+                "index": 658,
+                "startTime": 2740.47
+            },
+            {
+                "end": 2745.68,
+                "text": "他意外地在自己管辖的当涂县境内",
+                "index": 659,
+                "startTime": 2742.08
+            },
+            {
+                "end": 2748.15,
+                "text": "找到了李白的墓地",
+                "index": 660,
+                "startTime": 2745.68
+            },
+            {
+                "end": 2750.06,
+                "text": "木木已拱",
+                "index": 661,
+                "startTime": 2748.61
+            },
+            {
+                "end": 2754.5,
+                "text": "他即刻下令严禁在周围乔才和放牧",
+                "index": 662,
+                "startTime": 2750.06
+            },
+            {
+                "end": 2759.33,
+                "text": "他要让这位诗人安心归现",
+                "index": 663,
+                "startTime": 2754.5
+            },
+            {
+                "end": 2762.49,
+                "text": "又是数年过去",
+                "index": 664,
+                "startTime": 2760.58
+            },
+            {
+                "end": 2766.15,
+                "text": "李白的后人找到了范长官",
+                "index": 665,
+                "startTime": 2762.49
+            },
+            {
+                "end": 2768.25,
+                "text": "不禁心潮奔涌",
+                "index": 666,
+                "startTime": 2766.15
+            },
+            {
+                "end": 2769.66,
+                "text": "他猜想",
+                "index": 667,
+                "startTime": 2768.65
+            },
+            {
+                "end": 2775.63,
+                "text": "或许终能有幸一睹李白传下的盛世风采了",
+                "index": 668,
+                "startTime": 2769.66
+            },
+            {
+                "end": 2780.08,
+                "text": "来到面前的是两个中年农妇",
+                "index": 669,
+                "startTime": 2776.29
+            },
+            {
+                "end": 2783.5,
+                "text": "他们是李白次子薄情的女儿",
+                "index": 670,
+                "startTime": 2780.08
+            },
+            {
+                "end": 2785.15,
+                "text": "衣衫素净",
+                "index": 671,
+                "startTime": 2783.5
+            },
+            {
+                "end": 2790.92,
+                "text": "形容朴也各自嫁给了普通农民围棋",
+                "index": 672,
+                "startTime": 2785.15
+            },
+            {
+                "end": 2794.69,
+                "text": "感慨之余",
+                "index": 673,
+                "startTime": 2793.32
+            },
+            {
+                "end": 2798.6,
+                "text": "范长官希望帮助他们改为士族身份",
+                "index": 674,
+                "startTime": 2794.69
+            },
+            {
+                "end": 2800.82,
+                "text": "却被两人一再婉拒",
+                "index": 675,
+                "startTime": 2798.6
+            },
+            {
+                "end": 2805.18,
+                "text": "他们说早已习惯了山野生活",
+                "index": 676,
+                "startTime": 2801.84
+            },
+            {
+                "end": 2806.95,
+                "text": "贸然成为士族",
+                "index": 677,
+                "startTime": 2805.18
+            },
+            {
+                "end": 2809.97,
+                "text": "他会辱没了爷爷的名声",
+                "index": 678,
+                "startTime": 2806.95
+            },
+            {
+                "end": 2812.48,
+                "text": "范长官不好勉强",
+                "index": 679,
+                "startTime": 2810.25
+            },
+            {
+                "end": 2817.1,
+                "text": "能做的也只是给他们免除了当年的徭役",
+                "index": 680,
+                "startTime": 2812.48
+            },
+            {
+                "end": 2819.88,
+                "text": "以表达对李白的敬意",
+                "index": 681,
+                "startTime": 2817.1
+            },
+            {
+                "end": 2822.21,
+                "text": "目送二人离去",
+                "index": 682,
+                "startTime": 2820.08
+            },
+            {
+                "end": 2823.68,
+                "text": "他唏嘘不已",
+                "index": 683,
+                "startTime": 2822.21
+            },
+            {
+                "end": 2831.06,
+                "text": "目之所见与心中所望全然不同",
+                "index": 684,
+                "startTime": 2827.46
+            },
+            {
+                "end": 2833.55,
+                "text": "恍惚的瞬间",
+                "index": 685,
+                "startTime": 2832.26
+            },
+            {
+                "end": 2835.08,
+                "text": "他凛然一惊",
+                "index": 686,
+                "startTime": 2833.55
+            },
+            {
+                "end": 2838.61,
+                "text": "突然想到春秋流逝",
+                "index": 687,
+                "startTime": 2835.08
+            },
+            {
+                "end": 2845.16,
+                "text": "眼前的大唐是那个大唐吗",
+                "index": 688,
+                "startTime": 2838.61
+            },
+            {
+                "end": 2853.96,
+                "text": "历史将演变出更加复杂的下一个时代",
+                "index": 689,
+                "startTime": 2850.08
+            },
+            {
+                "end": 2856.9,
+                "text": "盛唐过去了",
+                "index": 690,
+                "startTime": 2855.26
+            },
+            {
+                "end": 2859.82,
+                "text": "但盛唐的精神不灭",
+                "index": 691,
+                "startTime": 2856.9
+            },
+            {
+                "end": 2863.84,
+                "text": "它不仅是在盛世之中的昂扬与积怨",
+                "index": 692,
+                "startTime": 2860.22
+            },
+            {
+                "end": 2866.78,
+                "text": "更重要的是在乱世之中",
+                "index": 693,
+                "startTime": 2863.84
+            },
+            {
+                "end": 2870.7,
+                "text": "对社会理想的坚持和守护",
+                "index": 694,
+                "startTime": 2866.78
+            },
+            {
+                "end": 2878.94,
+                "text": "大唐永远是中国人思念的心灵故乡",
+                "index": 695,
+                "startTime": 2872.14
+            },
+            {
+                "end": 2897.35,
+                "text": "金典致敬中华文明",
+                "index": 696,
+                "startTime": 2894.3
+            },
+            {
+                "end": 2899.66,
+                "text": "开启有机新生",
+                "index": 697,
+                "startTime": 2897.35
+            },
+            {
+                "end": 2902.46,
+                "text": "提醒您下期看点",
+                "index": 698,
+                "startTime": 2899.66
+            },
+            {
+                "end": 2907.02,
+                "text": "经历了朝代巨变的皇帝召集",
+                "index": 699,
+                "startTime": 2904.48
+            },
+            {
+                "end": 2911.9,
+                "text": "永远不会忘记那个文明程度极高的时代",
+                "index": 700,
+                "startTime": 2908.28
+            },
+            {
+                "end": 2916.82,
+                "text": "不仅有繁华的商业和城市",
+                "index": 701,
+                "startTime": 2911.9
+            },
+            {
+                "end": 2919.52,
+                "text": "太平河了社会福利政策",
+                "index": 702,
+                "startTime": 2916.82
+            },
+            {
+                "end": 2921.74,
+                "text": "还创造了漂亮的书法",
+                "index": 703,
+                "startTime": 2919.52
+            },
+            {
+                "end": 2925.36,
+                "text": "梦幻般的天青色",
+                "index": 704,
+                "startTime": 2922.82
+            },
+            {
+                "end": 2931.72,
+                "text": "这决定了后世中国人的审美高度",
+                "index": 705,
+                "startTime": 2926.9
+            }
+        ],
+        "rawLang": "",
+        "descriptionText": "大型历史纪录片《中国》第二季延续第一季叙事与选题思路，以思想和制度为主线，在宏大的历史进程中，选择自唐代以来那些对后世中国带来了深远影响、极富代表性和时代意义的人物与事件，截取在当时具有开创性、转折性或标志性的重要节点，通过电影化的影像及精彩生动的叙事，追溯今日中国和中国人如何一路走来。 ",
+        "contentText": ""
+    }
+}
