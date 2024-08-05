@@ -2,96 +2,106 @@ import tiktoken
 import re
 import os
 
-# 指定模型
-enc = tiktoken.encoding_for_model("gpt-4o-2024-05-13")
-
-# 指定文件夹路径
-folder_path = r'Data\Srt_ex'  # 替换为你的文件夹路径
-
-# 检查文件夹是否存在
-if not os.path.exists(folder_path):
-    raise FileNotFoundError(f"文件夹未找到: {folder_path}")
-
-# 获取所有 .srt 文件
-srt_files = [f for f in os.listdir(folder_path) if f.endswith('.srt')]
+# 指定模型和文件夹路径
+MODEL = "gpt-4o-2024-05-13"
+SRT_INPUT_FOLDER = r'Data\Srt_ex'  # 输入文件夹路径
+CHUNK_OUTPUT_FOLDER = r'Data\Srt_temp'  # 输出文件夹路径
 
 # 定义最大和最小 token 数以及重叠字符数
-max_tokens = 7000
-min_tokens = 5000
-overlap_chars = 75
+MAX_TOKENS = 7000
+MIN_TOKENS = 5000
+OVERLAP_CHARS = 75
 
 # 提取时间标记的正则表达式 (分秒格式)
-timestamp_pattern = re.compile(r'^\d{2}:\d{2} --> \d{2}:\d{2} .*')
+TIMESTAMP_PATTERN = re.compile(r'^\d{2}:\d{2} --> \d{2}:\d{2} .*')
 
-# 检查行是否符合要求
+def init_encoding(model):
+    """初始化编码器"""
+    return tiktoken.encoding_for_model(model)
+
+def validate_folder(path):
+    """检查文件夹是否存在"""
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"文件夹未找到: {path}")
+
+def get_srt_files(path):
+    """获取所有 .srt 文件"""
+    return [f for f in os.listdir(path) if f.endswith('.srt')]
+
 def is_valid_line(line):
-    return bool(timestamp_pattern.match(line.strip()))
+    """检查行是否符合时间标记的要求"""
+    return bool(TIMESTAMP_PATTERN.match(line.strip()))
 
-# 找到合适的分割点
 def find_split_point(tokens, start, end):
-    while end > start and len(tokens[start:end]) > max_tokens:
+    """找到合适的分割点"""
+    while end > start and len(tokens[start:end]) > MAX_TOKENS:
         end -= 1
     return end
 
-# 检查并清理 chunk 中的时间结构
 def clean_chunk(chunk_text):
+    """检查并清理 chunk 中的时间结构"""
     lines = chunk_text.split('\n')
     cleaned_lines = [line for line in lines if is_valid_line(line)]
     return '\n'.join(cleaned_lines)
 
-# 处理每个 srt 文件
-for srt_file in srt_files:
-    file_path = os.path.join(folder_path, srt_file)
-    
-    # 读取文件内容
+def process_srt_file(file_path, encoder):
+    """处理单个 srt 文件"""
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
 
-    # 编码并统计 token 数
-    encoded_tokens = enc.encode(content)
+    encoded_tokens = encoder.encode(content)
     num_tokens = len(encoded_tokens)
-
-    # 拆分并处理重叠
     chunks = []
+
     i = 0
     while i < num_tokens:
         start = i
-        end = min(i + max_tokens, num_tokens)
-
-        # 寻找合适的分割点
+        end = min(i + MAX_TOKENS, num_tokens)
         split_point = find_split_point(encoded_tokens, start, end)
 
-        # 确保每个 chunk 至少有 min_tokens
-        if split_point - start < min_tokens:
-            split_point = min(start + max_tokens, num_tokens)
+        if split_point - start < MIN_TOKENS:
+            split_point = min(start + MAX_TOKENS, num_tokens)
 
         chunk_tokens = encoded_tokens[start:split_point]
-        chunk_text = enc.decode(chunk_tokens)
+        chunk_text = encoder.decode(chunk_tokens)
 
-        # 添加前后重叠
         if start > 0:
-            overlap_start = enc.decode(encoded_tokens[max(0, start - overlap_chars):start])
+            overlap_start = encoder.decode(encoded_tokens[max(0, start - OVERLAP_CHARS):start])
             chunk_text = overlap_start + chunk_text
 
         if split_point < num_tokens:
-            overlap_end = enc.decode(encoded_tokens[split_point:min(split_point + overlap_chars, num_tokens)])
+            overlap_end = encoder.decode(encoded_tokens[split_point:min(split_point + OVERLAP_CHARS, num_tokens)])
             chunk_text += overlap_end
 
-        # 清理 chunk 中的时间结构
         cleaned_chunk_text = clean_chunk(chunk_text)
 
-        # 检查最后一个 chunk 的字符数
         if len(cleaned_chunk_text) >= 300:
             chunks.append(cleaned_chunk_text)
         i = split_point
 
-    # 创建输出文件夹
-    output_folder = os.path.join(folder_path, os.path.splitext(srt_file)[0])
-    os.makedirs(output_folder, exist_ok=True)
+    return chunks
 
-    # 输出结果
+def save_chunks(chunks, srt_file):
+    """保存处理后的 chunks"""
+    output_folder = os.path.join(CHUNK_OUTPUT_FOLDER, os.path.splitext(srt_file)[0])
+    os.makedirs(output_folder, exist_ok=True)
     for idx, chunk in enumerate(chunks):
         chunk_file_path = os.path.join(output_folder, f"{os.path.splitext(srt_file)[0]}_chunk_{idx + 1}.srt")
         with open(chunk_file_path, 'w', encoding='utf-8') as chunk_file:
             chunk_file.write(chunk)
         print(f"Chunk {idx + 1} saved to {chunk_file_path}")
+
+def main():
+    """主函数"""
+    enc = init_encoding(MODEL)
+    validate_folder(SRT_INPUT_FOLDER)
+    validate_folder(CHUNK_OUTPUT_FOLDER)
+    srt_files = get_srt_files(SRT_INPUT_FOLDER)
+
+    for srt_file in srt_files:
+        file_path = os.path.join(SRT_INPUT_FOLDER, srt_file)
+        chunks = process_srt_file(file_path, enc)
+        save_chunks(chunks, srt_file)
+
+if __name__ == "__main__":
+    main()

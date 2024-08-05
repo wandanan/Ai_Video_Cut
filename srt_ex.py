@@ -35,6 +35,6 @@ def process_folder(input_folder, output_folder):
             print(f"Converted {json_file} to {srt_file}")
 
 # 设置输入和输出文件夹路径
-input_folder = 'Data/Srt_Json'
-output_folder = 'Data/Srt_temp'
+input_folder = 'Data\Srt_Json'
+output_folder = 'Data\Srt_ex'
 process_folder(input_folder, output_folder)
