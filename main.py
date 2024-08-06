@@ -7,7 +7,7 @@ import os
 def main():
     scripts = [
         "del_file.py",
-        # "requests_srt.py",
+        "requests_srt.py",
         "srt_ex.py",
         "token_cut.py",
         "video_ans_1.py",

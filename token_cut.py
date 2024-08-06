@@ -4,8 +4,8 @@ import os
 
 # 指定模型和文件夹路径
 MODEL = "gpt-4o-2024-05-13"
-SRT_INPUT_FOLDER = r'Data\Srt_ex'  # 输入文件夹路径
-CHUNK_OUTPUT_FOLDER = r'Data\Srt_temp'  # 输出文件夹路径
+SRT_INPUT_FOLDER = os.path.join('Data', 'Srt_ex')  # 输入文件夹路径
+CHUNK_OUTPUT_FOLDER = os.path.join('Data', 'Srt_temp')  # 输出文件夹路径
 
 # 定义最大和最小 token 数以及重叠字符数
 MAX_TOKENS = 7000
@@ -22,7 +22,8 @@ def init_encoding(model):
 def validate_folder(path):
     """检查文件夹是否存在"""
     if not os.path.exists(path):
-        raise FileNotFoundError(f"文件夹未找到: {path}")
+        os.makedirs(path)
+        #raise FileNotFoundError(f"文件夹未找到: {path}")
 
 def get_srt_files(path):
     """获取所有 .srt 文件"""

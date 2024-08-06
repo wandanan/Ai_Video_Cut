@@ -27,14 +27,14 @@ def load_config(config_path='config.yaml'):
         return None
 
 # 定义一个函数，用OpenAI GPT总结字幕内容
-def summarize_subtitles(subtitles, api_key):
+def summarize_subtitles(subtitles, api_key, base_url,model):
     try:
         logging.info("正在使用OpenAI GPT总结字幕内容")
-        client = OpenAI(api_key=api_key, base_url='https://api.aiskt.com/v1')
+        client = OpenAI(api_key=api_key, base_url=base_url)
         all_text = ' '.join(subtitles)
         logging.debug(f"合并后的字幕文本：{all_text[:50]}...")
         completion = client.chat.completions.create(
-            model='gpt-4o-2024-05-13',
+            model= model,
             messages=[
                 {"role": "system", "content": """按照字幕的行文内容与时间顺序，归纳讲述了那些事（20字以内），content，提取成标题，title,start_time 与 end_time 时间点，只以json格式返回， 输出格式{ "content"：“×××”,"title": "×××", "start_time": "00:06:02,769", "end_time": "00:06:23,420"} ，要求归纳的每件事不能过短，时长不低于30秒，并严格按照行文与时间顺序，时间一定要衔接上，不能出现时间衔接缺失，不能出现开头与结尾的内容的缺失。"""},
                 {"role": "user", "content": str(all_text)}
@@ -95,9 +95,9 @@ def save_json_to_file(data, filename):
     except Exception as e:
         logging.error(f"保存JSON数据到文件出错：{e}")
 
-def retry_summarization(subtitles, api_key):
+def retry_summarization(subtitles, api_key,base_url,model):
     for attempt in range(2):  # 进行一次重试，所以总共尝试2次
-        summary_points = summarize_subtitles(subtitles, api_key)
+        summary_points = summarize_subtitles(subtitles, api_key,base_url,model)
         if summary_points:
             reformatted_json = extract_and_reformat_json(summary_points)
             if reformatted_json:
@@ -137,6 +137,8 @@ if __name__ == "__main__":
         exit("加载配置失败")
     
     api_key = config.get('api_key')
+    base_url = config.get('base_url')
+    model = config.get('model')
     if not api_key:
         logging.critical("配置中未找到API密钥，程序退出")
         exit("配置中未找到API密钥")
@@ -149,7 +151,7 @@ if __name__ == "__main__":
     
     for folder, srt_files in srt_data.items():
         for file_name, srt_content in srt_files:
-            summary_points = retry_summarization(srt_content, api_key)
+            summary_points = retry_summarization(srt_content, api_key,base_url,model)
             if summary_points:
                 save_summarized_json(summary_points, folder, file_name)
                 for point in summary_points:
