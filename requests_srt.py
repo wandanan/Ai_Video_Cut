@@ -37,7 +37,7 @@ def save_json_response(response, title):
 
 def main(yaml_file):
     urls = extract_video_url(yaml_file)
-    api_url = "https://bibigpt.co/api/open/hHcifhP9AVWA"
+    api_url = "https://bibigpt.co/api/open/h***AVWA"
 
     for video_url in urls:
         data = {
